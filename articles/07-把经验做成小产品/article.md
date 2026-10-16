@@ -3,12 +3,12 @@ title: "把经验做成小产品，第一份到底卖什么？"
 slug: "turn-experience-into-a-small-product"
 summary: "反复用过的表格、模板和操作说明，可能藏着第一份小产品的起点。先找到一个具体的使用者，把他卡住的那一步做好，再看看是否有人愿意付费。"
 description: "从自己反复使用的工具出发，挑出一个明确需求，做出空白模板、填写示例和简短说明。通过试用检验它能否独立使用，再用清楚的产品介绍让合适的人找到你。"
-coverImage: "https://img.wemd.app/1792141597060_gf6l58.png"
+coverImage: "https://img.wemd.app/1792144199743_rp9784.png"
 theme: default
 themeName: "默认主题"
 ---
 
-![在家整理表格与说明，把日常经验做成一份小产品](https://img.wemd.app/1792141597060_gf6l58.png)
+![将自己反复使用的表格、笔记和清单，整理成别人能用的小产品](https://img.wemd.app/1792144199743_rp9784.png)
 
 电脑里有没有一份文件，你自己用了很久，别人看见后还会问一句：“这个能发我一份吗？”
 
