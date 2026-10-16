@@ -13,5 +13,6 @@ title: "README"
 3. `04-双11购物车先分4类/article.md`
 4. `05-周末半日小出走/article.md`
 5. `06-没粉丝没本金副业起步法/article.md`
+6. `07-把经验做成小产品/article.md`
 
 正式文章中的图片统一使用 WeMD 官方图床地址。本地 `images/` 仅作为源文件备份。
