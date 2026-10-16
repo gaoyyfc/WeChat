@@ -1,0 +1,30 @@
+[
+  {
+    "page": 1,
+    "slug": "01-cover"
+  },
+  {
+    "page": 2,
+    "slug": "02-find"
+  },
+  {
+    "page": 3,
+    "slug": "03-buyer"
+  },
+  {
+    "page": 4,
+    "slug": "04-package"
+  },
+  {
+    "page": 5,
+    "slug": "05-intro"
+  },
+  {
+    "page": 6,
+    "slug": "06-test"
+  },
+  {
+    "page": 7,
+    "slug": "07-start"
+  }
+]
