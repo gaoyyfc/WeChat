@@ -1,0 +1,261 @@
+When I first started building apps, I never understood how all these people on X got so many customers. They did not look that different from me; simple indie app builders. 
+
+Yet somehow they were able to go mega-viral with their apps. I knew they were not rich, I knew they were bootstrapped, so it's not like they poured millions into marketing to achieve these results. 
+I wanted to understand. So I started reverse-engineering every successful app's marketing. You can name me any successful consumer app and I know their marketing campaign, video formats, social media creators almost everything from the inside-out. I applied all this knowledge to my own app. My app is nothing special, just a simple beauty app for women.
+In 1 month, I achieved 30,000,000 views on TikTok, reaching consistent 1000 downloads per day and hitting $10,000 MRR for the first time. 
+This article is a complete guide, turning you from a complete beginner who does not know anything about UGC, to an intermediate-level UGC marketeer who can reach millions of people on a minimum budget. I will use examples from my own private campaign to illustrate my point. Try to be open-minded, I am sure this article can teach you something new even if you've run UGC campaigns before.
+I have nothing to sell you, the only condition I have for you before reading this free article is to use this knowledge responsibly. 
+
+This sounds ridiculous, but I truly believe that UGC is extremely powerful. You have the power to influence tens of millions of people with relatively little money, hence you start seeing UGC everywhere. Even in American politics. I hope you become successful with this article and do something good for others.  
+ 
+Table of Contents
+1. TikTok UGC explained
+2. Viral Feature Engineering
+3. Hiring Canvas UGC Creators
+4. Payment structure
+5. Setting up your Discord server
+6. UGC Creator workflow
+7. My mistakes
+8. Closing
+ 
+1. TikTok UGC explained
+The fewer followers they have, the better.
+Forget everything you know about social media.
+"UGC" is simply user generated content created by everyday people, instead of by companies. Most videos you see on TikTok qualify as UGC. They are unbranded, natural and spontaneous. Think of some girls doing a TikTok dance, or a random cooking video by a hobbyist showing their finished food.
+Over time, companies started to catch on. People skipped through their traditional advertisements instantly, but trust UGC content enough to doomscroll and watch this type of content for hours. 
+
+Consequently, companies started trying to mimic the "unbranded feel" so people start watching their advertisements for longer. After all, attention = money.  The goal is answering this question:
+How can we make our branded content look like unbranded content?
+This is what the whole UGC industry is about. 
+Sell to your users, without making them feel like you're selling something.
+Make your advertisement feel like a random video containing a recommendation by a friend. This is the key to going viral.
+Good UGC Example
+Make your videos look unprofessionally professional.
+https://www.tiktok.com/@biana.beauty7/video/7691414015246863638
+Watch the link above first. 
+Dissecting one of my successful UGC video examples:
+Snapchat caption - Snapchat is an app where GenZ takes spontaneous videos and shares them with their friends. You can recognize them by the black horizontal text bar. Because Snapchat videos are known for being raw and unfiltered, this helps our goal in making the video look natural.
+Slang inside caption - Caption does not use professional language. "broo theres a new tiktok update" is typical GenZ slang.
+Creator does not look directly in the camera - Looking in the camera feels scripted. Looking away from the camera feels spontaneous and natural.
+Camera angle - Only part of their face is visible so it looks like they just started recording the video randomly.
+Recording a secondary phone - Instead of inserting a raw screen recording, the creator films a second phone so it looks more in-the-moment. 
+Natural facial expression - Use a natural facial expression like irritation, subtle surprise or sadness. DO NOT USE A SHOCK EXPRESSION. Do not make the facial expression too strong or it will feel fake and scripted.
+Natural hook - Rolling the eyes was a good hook. You can also experiment with eating a chip, or running inside a room. Anything that involves some movement or motion works well.
+Low follower count - People trust accounts that are unbranded. An influencer recommending a product is an advertisement. A random person recommending a product is much more trustworthy.
+The best way to judge a video is to have empathy. 
+Imagine that you are your ICP.
+Watch the video as if you've never seen it before.
+Then judge, if the video feels scripted or not.
+Then keep iterating until the video does not feel scripted.
+Bad UGC Example
+One of her first videos before receiving any of my feedback: https://www.tiktok.com/@biana.beauty7/video/7689850312127040790
+Mistakes:
+Looks directly in the camera
+Overused, over-exaggerated facial shock expression. Do not use the hand in front of mouth format.
+Camera angle points directly towards their whole face instead of showing it from a natural angle
+Overall feels scripted.
+Best UGC Formats
+All formats can be split in these 3 categories. 
+I rank them in this order:
+1. Hook + demo
+2. Talking videos
+3. Long text videos
+Hook + demo
+https://www.tiktok.com/@s.ummerspretty/video/7681851466222439710
+My preferred option. A mostly visual, short video of about 15 seconds. It consists of a visual hook + payload: a short demo of your app. 
+
+The demo is engineered to go viral, you can't just put a random screen in this demo part. It has to grab attention. More about this in chapter 2 - Viral Feature Engineering.
+Talking videos
+https://www.tiktok.com/@kiley.zen11/video/7634280277711342862
+Contrary to most hook+demo, these videos contain speech. 
+This usually works better for more complicated app niches, for my niche this did not work very well in converting users. Also, it's harder to learn for creators since not every creator is well-spoken.
+You can combine Talking videos with a demo, but it's hard to do so naturally. Definitely applicable for some other app niches like religion or languages, niches that do not have a visual result like beauty.
+Long text videos
+https://www.tiktok.com/@kiley.zen11/video/7642467371646536973
+Mostly used for brand-awareness or warming up the account. This video does not convert many users to download your app, and the users that do download your app download it out of curiousity rather than buying intent.
+The advantage of Long text videos is that it's very simple to make, and easily hits a good amount of views. 
+For my UGC campaign, I almost exclusively used hook+demo videos. As you will see in my videos, they are pretty much all the same format.
+How to find your own format
+The best advice I can give you is to look at what other apps are doing and note the similarities. 
+
+For me for instance, I noticed that the Share Extension feature from Apple (sharing a video inside Tiktok to your app) was a very common format for many apps. So my viral video formats are based on this. I created the "Stealing your makeup" feature; Share your TikTok video to my app and it will generate a look and list make-up products to use to copy the look in the video. 
+Look at what others are doing, then be creative and think of something that can go viral in your niche.
+You have to have a feel of virality. I just "knew" that this is something that would go viral. Women like to watch celebrities and want to know how to get the same look. 
+
+Also "Stealing" sounds illegal, and illegal tends to go viral. Obviously this is an exaggeration and my app does not really "Steal" anything. It's just metaphorically copying the make-up look celebrities have. 
+To get your spider-senses ready to know when something is potentially viral, start doomscrolling for 2 hours in your niche and become familiar with your ICP. Start doomscrolling other apps and keep your eyes open and wide. It's just pattern recognition.
+The magic happens in the details. One detail is not noticeable, but 100 details combined make a successful and viral video.
+ 
+2. Viral Feature Engineering
+It's one thing to be able to create a natural-looking video.
+It's another thing to create a natural-looking video while selling something, while going viral.
+Viral Feature Engineering (VFE) is the art of adding a feature to your app that's purely designed to go viral. 
+Think of it this way; 
+-You have 15 seconds in a TikTok video. 
+-You have around 5 seconds to sell your app. 
+-You cannot explain your whole app in 5 seconds. 
+So you have to engineer something in your app that's attention-grabbing. 
+My viral feature: Steal their make-up
+https://www.tiktok.com/@s.ummerspretty/video/7682600670096067871
+
+For my beauty app, I created the "Steal their make-up routine" feature. 
+It works by sharing a TikTok video to our app. Then, my app "steals" the make-up look in that video and shows products to achieve this look.
+ 
+This viral feature is what all my UGC content is revolved around. 
+Your job is to create a viral feature specifically designed to be shown on social media. The best way to get ideas is to doomscroll alot on TikTok and see what other apps are doing. Then make a spin-off for your app.
+You now understand the complete formula of creating good UGC content that sells. 
+ 
+3. Hiring Canvas UGC Creators
+Do not hire influencers. Their audience saturates.
+Do not hire regular UGC creators. They are overpriced.
+Hire Canvas UGC creators only.
+This article is written by an indie, for an indie. We do not have millions to spend. We need to find the best way to distribute the good UGC content we just talked about.
+Canvas UGC
+Canvas UGC is nothing more than UGC but done from newly created accounts (a new account = "blank canvas"). They then spam the same format over and over again on that account by posting 1-3x a day. 
+
+Why do we create brand-new accounts and not re-use existing accounts?
+Trust. People trust accounts more with low followers more than influencers with millions of followers. Having low followers is better.
+Niche. For every campaign, you need new accounts. You cannot create beauty content and sports content on the same account, it lowers video performance.
+Accessibility. Hiring becomes easier since every creator starts from scratch, so you can technically hire anyone even your typical 21 year-old college student.
+Budget. Piggy-backing on point 3, content becomes very cheap. Instead of paying $100 for 1 video in regular UGC, you pay $100 for 50 videos.
+FYP.  Nobody watches videos of influencers specifically, everybody watches videos on the FYP.  We capitalize on the fact that modern-day social media algorithms put almost no emphasis on follower count for virality. 
+Outreach methods
+The TikTok DM limit per account is normally 30 DMs a day.
+The best way to find Canvas UGC creators, is via 
+Reddit - Browse on subreddits like r/canvasugc
+TikTok/Instagram - DM canvas ugc creators directly on there. 
+Reddit is easier since you get warm leads. You create a post and people DM you so they are the ones reaching out first. This gives you leverage.
+
+TikTok/Instagram is harder, since you need to do cold outreach - You are the one reaching out first, they have leverage. 
+
+But I got banned from Reddit by posting too many job offers, so I had to do method 2.
+
+For cold DM outreach, the best way is to DM creators already working for other apps. This is because they are already used to getting performance-based payments and are also more skillful in perfecting viral formats. Here's my outreach script:
+
+ 
+Your goal is to secure an invite to your Discord server, not to close the complete deal in DMs.
+Look for:
+Creators that fit your niche. For me that was women, usually younger / GenZ.
+Creators that already do Canvas UGC for other apps
+Bonus if they went viral before
+Outreach account
+Nobody is going to answer DMs from an anonymous, 3 follower account.
+For direct DM outreach, use an account whose profile looks trustworthy. 
+Make sure your account looks good, represents your brand and MOST IMPORTANTLY looks popular. Make sure your account has atleast a couple thousand followers.
+You will get a response in 1 out of 100 DMs. This is normal.
+There is no penalty for DMing people too much on TikTok. You will get blocked for the rest of the day if you hit the limit, but it won't ban your account or anything. Just DM 30 people a day.
+Virtual Assistant
+You can hire a Virtual Assistant from Upwork or Fiverr or any freelance platform to do this outreach for you. This is much easier, but costs extra money. I paid my virtual assistant from the Philippines $100/month, for 4 hours a week. Which is often a decent part-time salary for people from South East Asia. Just give your VA the script and tell them to do outreach from Monday - Friday. It's worth the money, and you can recruit them later for more important jobs.
+Close the deal inside Discord
+When they agree to the terms in DMs, send them a link to your Discord server. This is the place where you send them the contract and close the deal. See more in the next 2 chapters.
+ 
+4. Payment structure
+A good payment structure allows you to scale without much upfront cost. If you have a proven app, you can start with 3 creators and a budget of $1000.
+I finally understood how these successful indie app builders were able to have large creator teams without millions in funding. It was a combination of employing Canvas UGC creators, with a good payout structure.
+In short, the best payout structure consists of a small base retainer per video + performance bonus.
+Specifically, I use $10 per video + a laddering CPM bonus and a payout cap of $3000 to save your profit margins in the case of your creator going mega-viral. They then post 2x a day, across multiple platforms, usually the same format over and over again.
+
+Here's my most up-to-date creator contract:
+
+ 
+Why would you pay for bad content? 
+Add a minimum view requirement for the base retainer.
+Key takeaways:
+Add a minimum view requirement of 1000 views. This is key. 
+The baseline of a normal video on Tiktok is about 300 views. So unless the creator makes good videos, they only earn the CPM bonus and not the $10 base per video. In practice, this will save you thousands of wasted $$$.
+The contract should be set to be terminated at-will. So if you see that things are going badly, you can just quit the contract immediately. This makes UGC low risk.
+Add a payout cap. Your profits will thank me later when you go viral. 
+Let them post 1-3x a day depending on what you need. 
+Start with 1-2 formats for your campaign. I just used 1 format.
+Cross-post every video on multiple social media platforms. I did TT/IG/FB.
+Treat your creators with care. 
+They put a lot of trust in you by working for you.
+Never do up-front payments, payments are monthly.
+ 
+5. Setting up your Discord server
+Most creators, even millennial creators, are already familiar with Discord.
+You need a place to manage your creator team, accept candidates/warm-leads, and make announcements. So I heavily recommend Discord.
+The Discord infrastructure that I used, is the following:
+ 
+Don't just copy me. Analyze what I'm doing and improve on what you see.
+By no means is this the perfect way to do it. But I just want you to have an example. 
+
+I create a 1-on-1 channel for every creator and me so we can have private conversations. Then we have 4 read-only, public channels like for announcements, resources, all the creator accounts and the creator progression system.
+There is no shared group chat with creators. You can add one, but I prefer not to for smaller teams because this is easier to manage.
+
+1-on-1 creator channels
+The moment you successfully invite someone to your Discord server from outreach, I create a private channel with them and try to close the deal if they are a good creator. After they are hired, all creator comms go via this channel.
+ 
+Announcements
+Important announcements go here. For example, it's nice to do a weekly recap of any breakout videos that occur to motivate the team.
+ 
+Resources
+Add any useful resources here that the creator needs. 
+I only use 1 document here, just a posting guide on how to create the content that we want. It should explain how to record the viral video formats, what video description to use etc. Here is an example:
+ 
+ 
+Accounts
+The accounts channel is where you list all your creator accounts. This channel is optional. I like letting the creators know with which other creators they work with but I can totally think of reasons not to do this.
+ 
+Creator Progression System
+Basically UGC gamified. Give creators ranks so they can earn more money. We work with a breakout video system, so every video that breaks out 10,000 views is counted. The payment increase is only for the base retainer, and it's not taken intro the contract so it really is just a bonus they might earn. 
+ 
+ 
+6. UGC Creator workflow
+Create the best environment in which your creators can thrive. 
+You give them all the tools and they execute.
+You have to properly onboard your creators and create the best environment in which they can thrive. Be concise in giving directions. Be clear with deadlines. 
+
+When the creator is just new, do the following:
+Create a timeline of what is expected from them.
+ 
+2. Explain the submission schedule. Explain:
+When should they submit their videos for feedback before posting? 
+ 
+3. Answer any questions they have. 
+Submission schedule
+Before your creators are allowed to post the videos they create, they first have to send the videos to you for feedback. 
+
+This way, you can improve the quality and help your creators improve in skill. 
+
+Create a submission schedule like: 4x video on Monday, 5x on Wednesday and 5x on Friday. I used this schedule for my 2x videos per day posting. 
+ 
+The submission schedule makes up the larger bulk of your work as a manager. Eventually when the creator gets good at replicating the format, you can drop the submission schedule.
+Monitoring
+Virality is luck, but hitting breakout videos is not. 
+That's why breakout videos are the best proxy to aim for.
+Your creators are now posting daily and you give feedback frequently. Monitor the performance of the creators weekly and see if their views grow. 
+Try to aim for breakout videos. Breakout videos are videos with 10,000 views. They display exceptional performance on TikTok, and hint at potential virality if you keep posting the same format.
+When you have a breakout video, take a look at what the creator did right and reproduce this behaviour. 
+Firing creators
+Since the payout structure is really favorable, I rarely fire creators. This is because if they underperform, I do not pay them out a lot of money.
+However, I still fire underperforming creators because they do take time and energy that you could use on other endeavors.
+Good creator timeline milestones
+A good creator often follows this timeline.
+First week: first video with 1000 views
+Second week: first breakout video of 10,000 views.
+Third week: first viral video of 100,000+ views.
+Reasons to let go of creators
+Consistently bad attitude
+Misses deadlines repeatedly
+No breakout videos after a long while
+ 
+My mistakes
+Learn from my mistakes. They are listed in order of severity.
+
+No viral feature
+You have to have a viral feature to display within 5 seconds. My original UGC videos did not have this, so I got millions of views with little downloads. UGC + no viral feature = recipe for disaster. Never do UGC without VFE.
+No payout cap 
+My original contract did not include a payout cap, because I thought a CPM of $0.3 would never be unprofitable. Yet, because I went mega-viral my profits could have still been bigger if I added a payout cap in my creator contracts. I now always add a cap of $3000.
+Buyers intent with UGC is inherently lower than with ads.
+My download-to-paid rate was only 0.5% for UGC, and 7% for ads. I know hard paywall apps are super popular, but people coming from UGC are much lower intent so a free trial or freemium model might work better for you. When you start getting loads of traffic, try A/B testing pricing model. I have a theory where UGC works best for apps that already have a high k-factor.
+Hire slow, fire fast 
+I hired many creators too quickly so I ended up with some bad apples. If you just start out, max 5 creators is a good starting point. Don't just hire anybody, control the quality that comes into your team. This also applies from a psychological perspective: Hire optimistic creators and work becomes fun. Hire negative creators and work becomes a chore.
+ 
+UGC lifespan
+Eventually, purchase intent starts to drop. Millions of users have already seen my app so my videos start having creative fatigue and only low quality traffic comes by.
+
+Do not think that 1 campaign lasts forever, keep iterating on new formats and remember that there will be a day where you have to wrap things up especially if you run hard-paywall. Freemium apps with high retention last much longer.
+ 
+Closing
+This is a complete guide with personal examples on how to run a UGC campaign with 30,000,000 views for indie app builders. It's a unique article, because most UGC articles are written by marketing people. Traditional UGC marketeers do not understand as well as an app builder the holistic approach required for a successful marketing campaign. Views are secondary, in the end, it's about sales for your app. I could have posted text-wall videos instead of hook+demo videos and get 20x more views but they would get no sales. You need to find a good balance between views and download intent and you do that by optimizing every part of the sales funnel, not just marketing. You can do much better than me, especially if your app is low churn. $10,000 MRR for 30,000 downloads is low ARPU. I had a rather suboptimal app with 80% churn and a hard-paywall. Any other app would do much better in revenue. I think this only strengthens the authority of this article, since even a shitty app like mine could hit $10,000 MRR. My next project will be a new app with a stronger focus on retention and I will employ the same UGC strategy for this. I simply want to hit $100,000 MRR and use the money to do something good for both myself and the world. If you find this article useful, try it out yourself. When you start getting success, remember this: Give something back to the community, it's not hard to be proper. Stop being so ego-driven and stay open.

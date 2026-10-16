@@ -1,0 +1,67 @@
+I've generated 3B organic views for brands, founders, and networks of faceless pages in the last 5 years. My hope is that by reading this, you can leapfrog everything I've learned in 5 years in the next 10 minutes. 
+None of this article was written by AI. 
+Organic social is experiencing an unprecedented rate of change. If you're a founder, a Head of Social, a Head of Content, or even a CMO, this is a tactical guide to navigate that rate of change and scale a company from 0-100M organic views per month. For this article, we'll assume you're starting from zero on all platforms.
+Quick context so you can decide if you want to spend time reading this:
+I've "officially" worked in social media for 2 years, unofficially been in social for about 5 years, and been chronically online for the majority of my life. All in, I've generated billions of views across organic socials spanning the following mediums: TikTok clipping pages, Instagram brand pages, networks of faceless IG pages, and founder led content. (LinkedIn + Twitter)
+I can say with confidence that 2026 has brought (and 2027 will bring) the fastest rate of change for organic social we've ever seen. The rise of AI influencers, automated content agents, and frankly the volume of slop may make it seem impossible to grow. It's actually easier than ever. If AI influencers that look like this can do it:
+ 
+You can too. 
+And you must. Navigating this change is existential to the vast majority of startups today. 
+To help you do that, this article is separated into three phases:
+Phase 1: 0-1M views/month
+Phase 2: 1-10M views/month
+Phase 3: 10-100M views/month
+ 
+Phase 1: Distribution by any means necessary (0 ➡️ 1M views/month)
+In phase 1 of a startup or early stage company, it's often that you'll find the company in a "distribution by any means necessary" mindset. We've seen this more in recent years. A prime example is Cluely. What started as a company with a product that knew how to engineer views quickly turned into a company primarily known for viral media, not their product. 
+This is a trap many startups fall into early on. You should do everything you can to avoid this. 
+I want to explain (from a social algorithm perspective) why avoiding this matters so much. 
+For this exercise, I want you to imagine that you're scrolling an Instagram feed and you interact with a piece of content from the Claude Instagram page in 2023. The page has zero followers. It's a reel showing how to use Claude for marketers. You like the video, and you follow the account. Odds are, 3-4 scrolls later you'll be served another piece of media from the Claude page. 
+However, this time, it's a video about how a gorilla ran a marathon. 
+The first video showing a Claude workflow gets 50,000 views and 500 followers. The second video gets 5M views and 5,000 followers. 
+These followers are very different. One group wants to use your product, and one doesn't know anything about it. 
+The next time you post a product-led video about another Claude workflow, it's served to the group that followed from a gorilla video, gets no engagement (because they came for entertainment, not tactical workflows) and isn't pushed by the algorithm. 
+This is the phase 1 trap. Not all views are created equal. In fact, the vast majority can be harmful to long-term growth for a brand. 
+While scaling from 0-1M views/month, you must be strict and patient with the audience you gather so as to not damage your success chances in phases 2 and 3. 
+Team Structure During Phase 1
+Phase 1 is often dominated by founder-led content. The fact of the matter is, unless you have a groundbreaking product, people prefer to hear from a personal page rather than a brand one. 
+During phase 1, you'll be well served by acquiring a face of the brand. This is ideally someone with deep organic knowledge that can make social-first product videos for Twitter and Instagram. If you can find someone that has a skillset to scale a paid media engine through Trybe UGC or otherwise - hire them. You won't often find this combination. 
+The team structure below is your most reliable route to go from 0-1M views/month. 1-2 launch videos per week may be a challenge for some to keep up with. Consider these as product update announcements. They can be simple LinkedIn posts, or animations made with Opus 5.5 - very simple. If this doesn't get you to 1M impressions a month, something has gone terribly wrong. 
+ 
+Make content>iterate>identify winners>make more content. It may start slow - with daily posts you will brute force your way to winning content pillars and 1M views. Now your company is ~sort of~ on the map. 
+ 
+Phase 2: Scale Winning Channels (1 ➡️ 10M views/month)
+By the end of phase 1, it should be clear which channels are winning and should be invested into. This stage is about stoking fires. Here's how to identify when it's time to do that, who to hire, and some useful AI workflows that unlock each channel.
+Identifying A Winning Channel:
+LinkedIn: If you started from zero in phase 1, anything above 10,000 avg impressions/post is worth investing into. 
+Twitter: You have 50k+ impressions/week. 
+Instagram: You have a strong baseline growing, several thousand views per video at a bare minimum, and 1-2 outliers per month at 100k+ views each. 
+Who to hire: 
+Copywriter/Head of Content: This person will run your LinkedIn + Twitter. They'll continue finding more winning content angles on your LinkedIn, and repurpose them in ways that are native on Twitter. They should know how to scale you from 50-100k impressions/week on LinkedIn to >200k. 
+Short Form Editor: This person needs to come with at least 10M+ organic views generated on short form. Ideally 50M+ if you can afford this level of talent at your company's stage. They'll take every proven piece of content that your copywriter finds, and turn it into short form content for you to make. Batch as many as possible. They need to be able to provide a step change in performance with regards to your company's video content. They should be chasing 500k views/week on IG, and 250k+ on Twitter. 
+Creative Director: This person should be elite when it comes to product launches. They're on the pulse of organic and culture, and know how to produce a media asset such that it gathers millions of views. An example of why this is valuable is OpenAI's recent Astra launch video. A generic video would have gotten views simply because the model is exciting. Instead, they pushed for something unique and captivating - they were rewarded with hundreds of millions of impressions. This person will be expensive, it's worth it. 
+Useful AI skills to build: Have Astra build an automated skill that sends the raw transcripts of your founder's meetings that they have all day to the copywriter. Record everything with a notetaker. Tell it to remove anything that's confidential or private. This will provide an abundance of material, and is the single most valuable workflow for scaling impressions through written media. This feeds every channel for the founders, and works like this: 
+ 
+By the end of phase 2, your founder-led content should be a machine generating ~10M views/month across channels. Twitter will carry a lot of this if done properly. This is what the team structure should look like at the end of phase 2: 
+ 
+ 
+Phase 3: Crossing The Chasm (10 ➡️ 100M views/month)
+This is where the rubber meets the road. This is, by far, the hardest phase for any organic media team. It requires shedding your identity in phases 1 and 2 as a founder-led company, and turning to a brand one. 
+To contextualize this: If you think of OpenAI, Anthropic, or SpaceX - who do you think of? Probably Sam, Dario, and Elon. 
+However, if you think of Google, Microsoft, or Apple - you likely don't think of Sundar, Satya, and John. It's more likely you think of a search bar, tools for knowledge workers, and phones. 
+These companies have crossed the chasm. 
+They've shed their reliance on founders for distribution, and instead let their products and brand accounts do the talking. 
+This phase requires you to take everything you've learned from phases 1 and 2, and apply it to rapidly grow brand accounts across all platforms. 
+This phase requires either an abundance of resources, or a deep level of talent on your team. Often both. 
+This phase requires a brute force level of volume across all channels. To even begin to tackle 100M views/month, you'll likely need 20+ daily posts going out across all platforms for the brands, founders, and any EGC program you've created. 
+Supporting that level of volume is a challenge, and the team structure will need to evolve to accommodate it. You go from a media team of 3-4 people, to a media team of 10-20. 
+The team is separated into pods. They obsess over one channel and support every piece of content for it. It looks something like this: 
+ 
+Crossing the chasm is an expensive endeavor - but you don't get to become a company worth 100B+ dollars without doing it. 
+ 
+Final Thoughts
+I've learned much about the world through how people interact with organic media. It's become something I truly love doing. However, I've not touched at all on how to actually make a piece of media that performs in this article. 
+I look forward to writing channel-specific content strategy articles for each platform. 
+More soon.
+If you want to connect about all things socials and marketing, I tweet semi-often on @domschats 
+Thank you for reading.
