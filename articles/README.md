@@ -14,5 +14,7 @@ title: "README"
 4. `05-周末半日小出走/article.md`
 5. `06-没粉丝没本金副业起步法/article.md`
 6. `07-把经验做成小产品/article.md`
+7. `08-副业换了好几个/article.md`
+8. `09-40岁以后工作经验怎样继续值钱/article.md`
 
 正式文章中的图片统一使用 WeMD 官方图床地址。本地 `images/` 仅作为源文件备份。
