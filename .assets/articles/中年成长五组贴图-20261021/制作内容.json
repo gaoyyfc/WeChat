@@ -1,0 +1,311 @@
+{
+  "date": "2026-10-21",
+  "style": "暖纸手绘图解，中文，首图给方法，内页给案例与模板",
+  "series": [
+    {
+      "id": "01-learn",
+      "directory": "40岁想学点新东西先别急着买课",
+      "title": "40岁想学点新东西，先别急着买课",
+      "intro": "想跟上变化，又怕花了钱没学会？先从手头的一件事找学习入口。3 张贴图，用一张报表示范怎样选任务、练出成果，再判断需不需要买课。",
+      "body": "一看到新工具、新技能，就担心自己落后。买课时觉得终于开始了，可下班之后打开目录，几十节课看着就累。\n\n可以先换个入口：最近哪件工作最费劲？比如每周都要整理好几份表，就先学会把它们汇总成一张能复用的表。遇到哪里不会，再找对应的资料。做出第一版，拿新数据再跑一次，才知道自己到底学会了多少。\n\n真要买课，先看它能不能帮你完成这个任务，有没有练习和反馈，前置基础是否合适。工作资料涉及客户、金额或个人信息时，用虚构数据练习。\n\n你现在最想学会的技能，准备先用在哪件具体的事上？",
+      "tags": "#中年成长 #学习方法 #职场技能 #烟火有主意",
+      "source": "https://x.com/biscuitweb3/status/2102426156699918496",
+      "pages": [
+        {
+          "file": "01-cover",
+          "type": "flowchart",
+          "layout": "A practical cover with a prominent three-line title taking at most 25 percent of the image, then four large connected steps. Each step has a short label and a full example line. A small spreadsheet sketch belongs to the diagram, never fills a large empty decorative area.",
+          "labels": [
+            "40岁想学点新东西",
+            "先别急着买课",
+            "先拿手头一件事练起来",
+            "例如：每周都要做汇总表",
+            "① 定任务：把几份表合成一张",
+            "② 做一版：不会的地方再查",
+            "③ 换数据：不看教程再做一次",
+            "④ 问反馈：请使用者挑一个问题",
+            "卡在哪里，再决定要不要买课。",
+            "01 / 03"
+          ]
+        },
+        {
+          "file": "02-example",
+          "type": "comparison",
+          "layout": "A filled learning worksheet, not an actual software screenshot. Top contrast between a vague goal and a tangible deliverable. Then a clean three-step worked example. Bottom is a new-data check. Tiny tabular marks may illustrate data but have no extra text or fabricated numerical performance claims.",
+          "labels": [
+            "把“学技能”换成一个成果",
+            "太宽：我要学会表格软件",
+            "具体：做出每周能复用的汇总表",
+            "先完成这三件事",
+            "统一日期和列名",
+            "汇总每周数据",
+            "核对结果与原表是否一致",
+            "换一份新数据，再独立做一次。",
+            "练习请用虚构数据。",
+            "02 / 03"
+          ]
+        },
+        {
+          "file": "03-template",
+          "type": "framework",
+          "layout": "A reusable personal learning card with four generous unfilled writing lines, followed by three course-selection checks. Use the same numbered markers and visual hierarchy as page one. Do not fill the blank writing lines with made-up answers.",
+          "labels": [
+            "买课前，先填这张卡",
+            "我想解决的工作难题：",
+            "我要做出的具体成果：",
+            "我已经会的部分：",
+            "这次真正卡住的地方：",
+            "再看课程是否合适",
+            "有对应任务的练习吗？",
+            "能拿到反馈吗？",
+            "我具备要求的基础吗？",
+            "先试做，再按缺口补知识。",
+            "烟火有主意",
+            "03 / 03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02-clarify",
+      "directory": "别人一句你看着办别急着埋头干",
+      "title": "别人一句“你看着办”，别急着埋头干",
+      "intro": "接到一句“你看着办”，最怕做完才发现方向不对。这组 3 张图给你四句澄清话术、一段完整对话和一份确认消息模板。",
+      "body": "“你看着办”有时是信任，有时只是要求还没说完整。拿不准就埋头做，往往做到一半才发现，用途、形式甚至时间都想岔了。\n\n不用一口气问一长串。先问最影响做法的一项：“这份材料是给内部选方案，还是给客户看？”用途清楚了，再补上形式、时间和优先级。对方已经讲清的，就不用重复问。\n\n最后用一条简短消息把交付约定发回去，给对方一个纠正误解的机会。要求有变化，也及时同步。问清楚不能消除所有返工，但能让双方早点发现是不是在做同一件事。\n\n你最难问出口的，是要做成什么样，还是到底什么时候要？",
+      "tags": "#职场沟通 #工作方法 #中年职场 #烟火有主意",
+      "source": "https://x.com/naikoutetsugaku/status/2103812707925254644",
+      "pages": [
+        {
+          "file": "01-cover",
+          "type": "infographic",
+          "layout": "A useful cover made of four stacked question cards. Headline at top is at most 25 percent of the image. Each card pairs a short colored topic label with the exact question underneath. These are generic dialogue cards, not branded messaging-app UI. Keep the full question readable and never hide it behind drawings.",
+          "labels": [
+            "别人一句“你看着办”",
+            "别急着埋头干",
+            "先问清这4件事",
+            "用途：用来选方案，还是对外汇报？",
+            "形式：一页结论，还是完整明细？",
+            "时间：周三下午给初稿，来得及吗？",
+            "优先级：和手上的 A 冲突，哪件先做？",
+            "已经讲清的，就不用重复问。",
+            "01 / 03"
+          ]
+        },
+        {
+          "file": "02-dialogue",
+          "type": "scene",
+          "layout": "A clean four-message conversation in alternating left/right hand-drawn bubbles, with small symbolic person markers. Use readable regular-weight Chinese for messages, bold only for the short headline. Every message fully visible, no cartoon faces taking up space. End with a clearly distinct agreement summary.",
+          "labels": [
+            "把模糊任务，问成具体交付",
+            "对方：下周要看方案，你整理一下。",
+            "我：主要是内部选方案，还是给客户看？",
+            "对方：内部选，先比较两个方案。",
+            "我：那我做一页对比，周三下午给初稿，可以吗？",
+            "对方：可以，先看两个方案的取舍。",
+            "确认结果：一页对比表，周三下午交初稿。",
+            "下周看方案，初稿可以更早确认。",
+            "02 / 03"
+          ]
+        },
+        {
+          "file": "03-template",
+          "type": "framework",
+          "layout": "A reusable confirmation-message template in a large generic message card. The blank spaces are deliberate writing slots. Beneath it, place a concise practical exception and one action. No extra placeholder text beyond the labels. Use mostly ink on ivory and mint around the message.",
+          "labels": [
+            "动手前，发一条确认消息",
+            "我确认一下：",
+            "这次用于____，先做____，",
+            "____前给初稿。",
+            "目前先保____，",
+            "如果理解有偏差，请您纠正。",
+            "缺一项，就补问一项。",
+            "遇到资源或安排冲突，及时协调。",
+            "烟火有主意",
+            "03 / 03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03-direction",
+      "directory": "想改变又不知道往哪走先列三张清单",
+      "title": "想改变，又不知道往哪走？先列这三张清单",
+      "intro": "方向没想清，不必先做一个很大的决定。3 张贴图，把已有能力、真实需求和可投入的时间放到一起，再设计一个两周能完成的小尝试。",
+      "body": "想改变的时候，很容易先问自己：“我到底适合做什么？”这个问题太大，想了一晚上，也未必能多出一个答案。\n\n不妨先写小一点：别人常因为什么来找你，你反复见过哪些没有解决好的问题，你现在每周还能拿出多少时间。三张清单放在一起，可能就能找出一件值得试做的小事。\n\n比如你擅长整理流程，同事总问相同的入职问题，就试着做一页入职指引，找真正用得上的人试读。两周后看它有没有帮到人、哪里需要改、自己愿不愿意继续做。效果不合适，就缩小或换一个问题。\n\n这个尝试可以在现有工作里完成，别急着让它承担转行或赚钱的全部期待。你最常被别人请教的，是哪一件事？",
+      "tags": "#中年成长 #寻找方向 #职业发展 #烟火有主意",
+      "source": "https://x.com/Jayyanginspires/status/2110733530321879482",
+      "pages": [
+        {
+          "file": "01-cover",
+          "type": "framework",
+          "layout": "A useful cover with three stacked list cards feeding into one small two-week trial box. Avoid Venn diagrams because long Chinese overlaps poorly. Each card has a bold label and a specific prompt. The concluding arrow connects all three to the trial. Keep title compact and body dominant.",
+          "labels": [
+            "想改变，又不知道往哪走？",
+            "先列这三张清单",
+            "① 我已经会什么",
+            "别人常因为什么来找我？",
+            "② 谁正需要这些能力",
+            "他们反复遇到什么难题？",
+            "③ 我现在能投入多少",
+            "每周时间、预算、精力各有多少？",
+            "找一处交集，做一个两周小尝试。",
+            "01 / 03"
+          ]
+        },
+        {
+          "file": "02-example",
+          "type": "flowchart",
+          "layout": "A concrete worked example of an office worker making a one-page onboarding guide. Four filled boxes linked from competence and observed need to realistic availability and deliverable, followed by a brief user-test plan. Use only a tiny folded-page icon. No earnings claims, entrepreneurial imagery, or career promises.",
+          "labels": [
+            "例如：先做一页入职指引",
+            "已有能力：擅长把流程讲清楚",
+            "真实需求：同事总问相同的入职问题",
+            "当前投入：每周能留出两次半小时",
+            "试做成果：一页能照着走的入职指引",
+            "第一周：写出初稿",
+            "第二周：请实际使用的人试读，再修改",
+            "涉及内部资料，按公司要求分享。",
+            "02 / 03"
+          ]
+        },
+        {
+          "file": "03-template",
+          "type": "framework",
+          "layout": "A two-week trial worksheet with three blank lines at top and three review questions below, then a simple decision branch to continue or adjust. Branches are evenly separated. No excessive doodles, all text large enough for phone use. Content concerns testing a small task, not changing jobs immediately.",
+          "labels": [
+            "两周后，用反馈决定下一步",
+            "我准备帮谁：____",
+            "我只解决这一个问题：____",
+            "我能交出的第一版：____",
+            "回头看三件事",
+            "对方真的用了吗？",
+            "哪一步仍然卡住？",
+            "我愿意继续做吗？",
+            "有帮助：改好再做一次",
+            "不合适：缩小或换一个问题",
+            "先积累判断方向的证据。",
+            "烟火有主意",
+            "03 / 03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04-start",
+      "directory": "一想到要学半小时就一直拖到明天",
+      "title": "一想到要学半小时，就一直拖到明天",
+      "intro": "下班后打开学习计划，却迟迟没有开始。3 张贴图示范怎样把一大段学习改成一个能完成的小动作，给忙碌日也留下一点进度。",
+      "body": "下班回家，想到还要学半小时，心里先往后退了一步。不是今天太晚，就是明天可能更有精神，计划就这样一天天留在原地。\n\n可以把今晚的任务改得具体一点：“打开昨天那张练习表，把日期统一好，保存一份。”不用等到时间充裕，也先别把完整章节都摆在眼前。做完一个动作，就留下一个看得见的结果，下次从这里接着来。\n\n有余力可以继续，累了就按事先约好的地方停。真需要休息的晚上，也可以休息。小步骤的用处，是让你更容易接上学习，不是再给自己加一条必须做到的要求。\n\n你一直拖着没开始的那件事，今晚能缩成哪一个动作？",
+      "tags": "#学习方法 #行动起来 #中年成长 #烟火有主意",
+      "source": "https://x.com/OnebookofMAG/status/2107580474524938706",
+      "pages": [
+        {
+          "file": "01-cover",
+          "type": "comparison",
+          "layout": "A practical cover with a clear contrast: one vague overwhelming task near the top and three small concrete actions below connected as a short path. The example concerns a local practice spreadsheet. Use a tiny file symbol only. Big headline but leave at least two thirds for the actual method.",
+          "labels": [
+            "一想到要学半小时",
+            "就一直拖到明天",
+            "今晚先缩成一个能完成的动作",
+            "大任务：今晚学半小时表格",
+            "改成：打开练习表",
+            "只做：统一日期格式",
+            "留下：保存这份练习",
+            "做完这一小步，就可以停。",
+            "01 / 03"
+          ]
+        },
+        {
+          "file": "02-example",
+          "type": "timeline",
+          "layout": "A four-step worked practice sequence using one consistent sample task, shown in chronological cards. The two date formats should be rendered exactly as a transformation example. The final card is tomorrow's starting point. No actual app logo or real UI screenshots.",
+          "labels": [
+            "把学习变成能接上的一小步",
+            "① 打开上次的练习表",
+            "② 把 2026/10/21 统一成 2026-10-21",
+            "③ 检查后，保存为日期练习",
+            "④ 记一句：下次练习按日期排序",
+            "今天留下结果，明天就有起点。",
+            "02 / 03"
+          ]
+        },
+        {
+          "file": "03-template",
+          "type": "framework",
+          "layout": "A personal minimum-action card with four writing slots. Below it, show two equal and nonjudgmental choices: continue if energy allows, rest if tired. No scoring, streak, perfectionism or medical language. Gentle sketch style, highly readable instructions.",
+          "labels": [
+            "今晚，只约定这一小步",
+            "在____之后，我打开____。",
+            "只完成____这个动作。",
+            "完成后留下____。",
+            "下次从____接着做。",
+            "有余力，可以继续。",
+            "累了，按约定停下来。",
+            "需要休息的晚上，也可以休息。",
+            "烟火有主意",
+            "03 / 03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-review",
+      "directory": "同样的错犯了三次怎么复盘才有用",
+      "title": "同样的错犯了三次，怎么复盘才有用？",
+      "intro": "复盘最后只写“下次认真一点”，很难改变下一次的做法。3 张贴图，用一次材料延期示范怎样找到差异、改一个动作，再看有没有改善。",
+      "body": "忙完一个项目，复盘常常只剩几句话：沟通不够、时间没安排好、下次再认真一点。问题听起来都对，可下一次一忙，还是照旧。\n\n试着留下四件具体的事：原本约定什么，实际发生什么，差异出现在哪一步，下次准备改哪个动作。比如约好周三交完整材料，到了周四还缺一张表。再往前找，发现截止前没有确认那张表由谁提供、何时能到。\n\n下一次就提前确认负责人与时间，到约定节点仍没拿到时及时同步。之后再看材料是否更齐、有没有更早发现风险。如果是人手或权限不足，也要把需要协调的条件写出来。\n\n复盘不必一次改完所有问题。你最近一次想写“下次注意”的地方，能不能换成一个具体动作？",
+      "tags": "#工作复盘 #职场成长 #工作方法 #烟火有主意",
+      "source": "https://x.com/ysk_motoyama/status/2104329770087670083",
+      "pages": [
+        {
+          "file": "01-cover",
+          "type": "framework",
+          "layout": "Four full-width horizontal rows stacked vertically, NEVER a 2x2 grid. Each row is a usable review field. Put its short numbered label at left or above, and its exact question on the next line in large readable regular handwriting. A tiny relevant symbol can occupy at most 10 percent of any row. No big decorative icon. Title at most 22 percent of canvas. Each question is at least 40px tall and may wrap naturally. Highlight the action row with mint.",
+          "labels": [
+            "同样的错犯了三次",
+            "怎么复盘才有用？",
+            "① 预期：原本约定做到什么？",
+            "② 实际：最后发生了什么？",
+            "③ 差异：哪一步和预期不同？",
+            "④ 改法：下次具体改哪个动作？",
+            "把“下次注意”写成具体做法。",
+            "01 / 03"
+          ]
+        },
+        {
+          "file": "02-example",
+          "type": "comparison",
+          "layout": "A filled project-delay review card: four full-width rows with example label at top, followed by one condition note. Make explicit that it is an example, not actual tracked performance. Separate expected and actual clearly; highlight the actionable change and keep it fully readable.",
+          "labels": [
+            "例：周三要交的材料，周四还没齐",
+            "预期：周三交一份完整材料",
+            "实际：周四仍缺一张数据表",
+            "差异：截止前没确认谁提供、何时到",
+            "改法：周一确认负责人和提供时间",
+            "到点还没拿到，就及时同步风险。",
+            "若人手或权限不足，也要写清需谁协调。",
+            "02 / 03"
+          ]
+        },
+        {
+          "file": "03-template",
+          "type": "framework",
+          "layout": "A reusable review worksheet with four writing lines and one real follow-up measure. Below is an example with two check questions, making clear this is how to assess the previous page's change rather than claiming guaranteed improvement. No generic motivational ending taking up a full panel.",
+          "labels": [
+            "复盘卡：改一个动作，再看结果",
+            "原本约定：____",
+            "实际发生：____",
+            "差异出现在：____",
+            "下次改一个动作：____",
+            "下一次，检查改变有没有用",
+            "例如：材料是否按时齐全？",
+            "若没齐，是否更早发现并同步？",
+            "仍然卡住，就继续找具体原因。",
+            "烟火有主意",
+            "03 / 03"
+          ]
+        }
+      ]
+    }
+  ]
+}
