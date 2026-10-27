@@ -1,0 +1,35 @@
+[
+  {
+    "name": "01-绿色杂志排版",
+    "image_url": "https://bcn.135editor.com/files/202610/tBsUzPhQ_KMn5.png",
+    "page_url": "https://www.135editor.com/moban/detail/178759.html",
+    "original_size": [
+      375,
+      460
+    ],
+    "header_crop": "01-绿色杂志排版-头部参考.png",
+    "usage": "仅用于风格分析和生成时的摄影排版参考，不复制文字、照片或具体版式"
+  },
+  {
+    "name": "02-摄影撕纸排版",
+    "image_url": "https://bcn.135editor.com/files/202610/INGQOx5H_ShKS.png",
+    "page_url": "https://www.135editor.com/moban/detail/178754.html",
+    "original_size": [
+      375,
+      460
+    ],
+    "header_crop": "02-摄影撕纸排版-头部参考.png",
+    "usage": "仅用于风格分析和生成时的摄影排版参考，不复制文字、照片或具体版式"
+  },
+  {
+    "name": "03-简约摄影文字",
+    "image_url": "https://bcn.135editor.com/files/202610/9QjBTamS_TeTs.png",
+    "page_url": "https://www.135editor.com/moban/detail/179080.html",
+    "original_size": [
+      375,
+      460
+    ],
+    "header_crop": "03-简约摄影文字-头部参考.png",
+    "usage": "仅用于风格分析和生成时的摄影排版参考，不复制文字、照片或具体版式"
+  }
+]

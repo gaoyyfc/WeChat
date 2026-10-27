@@ -1,0 +1,24 @@
+{
+  "url": "https://www.google.com/search?q=%E5%85%AC%E4%BC%97%E5%8F%B7%20%E8%B4%B4%E5%9B%BE%20%E7%88%86%E6%AC%BE%20%E6%96%87%E5%AD%97%20%E5%8D%A1%E7%89%87%20%E6%96%B0%E6%A6%9C",
+  "accessed_at": "2026-10-27T16:16:02.784060+08:00",
+  "status": 200,
+  "final_url": "https://www.google.com/search?q=%E5%85%AC%E4%BC%97%E5%8F%B7%20%E8%B4%B4%E5%9B%BE%20%E7%88%86%E6%AC%BE%20%E6%96%87%E5%AD%97%20%E5%8D%A1%E7%89%87%20%E6%96%B0%E6%A6%9C",
+  "text": "Google Search\n若您在數秒內仍未能自動跳轉，請點擊\n這裏\n。\n如果你在存取「Google 搜尋」時遇到問題，請\n按一下這裡\n或傳送\n意見\n。",
+  "links": [
+    {
+      "url": "/httpservice/retry/enablejs?sei=w13gap3FAtb31e8PypS9iAQ",
+      "text": "這裏"
+    },
+    {
+      "url": "/search?q=%E5%85%AC%E4%BC%97%E5%8F%B7+%E8%B4%B4%E5%9B%BE+%E7%88%86%E6%AC%BE+%E6%96%87%E5%AD%97+%E5%8D%A1%E7%89%87+%E6%96%B0%E6%A6%9C&sca_esv=06eb4749832549b6&sxsrf=APpeQnvcTPoSqthO6U82YOICMS9p2R-Q0Q:1793088963048&emsg=SG_REL&sei=w13gap3FAtb31e8PypS9iAQ",
+      "text": "按一下這裡"
+    },
+    {
+      "url": "https://support.google.com/websearch",
+      "text": "意見"
+    }
+  ],
+  "scripts": [],
+  "images": [],
+  "metadata": {}
+}

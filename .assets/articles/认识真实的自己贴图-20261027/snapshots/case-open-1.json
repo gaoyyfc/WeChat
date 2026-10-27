@@ -1,0 +1,53 @@
+{
+  "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpuX25n_ZwsbdgpLDFyxV--VqXa8Fplpd9lKFAk-hleZ7FHks9IoXhvLhi0Von9qE_EoUlViAzLuLZR9YJvG52vIXSuCDtvmPeyUvHPOnOHFAx9qHJLpibgyVdAPSA7unFCgMZm2NrzDsnHLAzNhRKkT2VBSupwcG4DcutWLI8XxZhxbgpkRw1Zd3hOe0RsCpjPCY9XV2E7ObuL0unUdKkuw..&type=2&query=%E5%85%AC%E4%BC%97%E5%8F%B7%E8%B4%B4%E5%9B%BE%20%E7%88%86%E6%AC%BE&token=[temporary-search-token-redacted]",
+  "accessed_at": "2026-10-27T16:19:09.438726+08:00",
+  "status": 200,
+  "final_url": "https://weixin.sogou.com/antispider/?from=%2Flink%3Furl%3Ddn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpuX25n_ZwsbdgpLDFyxV--VqXa8Fplpd9lKFAk-hleZ7FHks9IoXhvLhi0Von9qE_EoUlViAzLuLZR9YJvG52vIXSuCDtvmPeyUvHPOnOHFAx9qHJLpibgyVdAPSA7unFCgMZm2NrzDsnHLAzNhRKkT2VBSupwcG4DcutWLI8XxZhxbgpkRw1Zd3hOe0RsCpjPCY9XV2E7ObuL0unUdKkuw..%26type%3D2%26query%3D%E5%85%AC%E4%BC%97%E5%8F%B7%E8%B4%B4%E5%9B%BE%20%E7%88%86%E6%AC%BE%26token%3D[temporary-search-token-redacted]",
+  "text": "搜狗搜索\n返回首页>>\nIP：[network-address-redacted]\n访问时间：2026.10.27 16:19:09\nVerifyCode：[redacted]\nFrom：weixin.sogou.com\n此验证码用于确认这些请求是您的正常行为而不是自动程序发出的，需要您协助验证。\n验证码：\n提交\n提交后没解决问题？欢迎\n反馈\n。\n企业推广\n关于搜狗\n免责声明\n意见反馈\n© 2026\nSogou Inc. -\n京ICP证050897号\n- 京公网安备1100\n00000025号",
+  "links": [
+    {
+      "url": "/",
+      "text": ""
+    },
+    {
+      "url": "/",
+      "text": "返回首页>>"
+    },
+    {
+      "url": "javascript:void(0);",
+      "text": "提交"
+    },
+    {
+      "url": "https://fankui.sogou.com/index.php/web/web/index?type=10&anti_time=1793089149&domain=weixin.sogou.com",
+      "text": "反馈"
+    },
+    {
+      "url": "http://fuwu.sogou.com/",
+      "text": "企业推广"
+    },
+    {
+      "url": "http://corp.sogou.com/",
+      "text": "关于搜狗"
+    },
+    {
+      "url": "/docs/terms.htm?v=1",
+      "text": "免责声明"
+    },
+    {
+      "url": "https://fankui.sogou.com/index.php/web/web/index?type=10&anti_time=1793089149&domain=weixin.sogou.com",
+      "text": "意见反馈"
+    },
+    {
+      "url": "http://www.miibeian.gov.cn",
+      "text": "京ICP证050897号"
+    }
+  ],
+  "scripts": [
+    "//dlweb.sogoucdn.com/common/lib/jquery/jquery-1.11.0.min.js",
+    "static/js/antispider.min.js?v=3",
+    "newstatic/js/main.min.js?v=0.0.1",
+    "newstatic/js/index.min.js?v=0.1.7"
+  ],
+  "images": [],
+  "metadata": {}
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "01-封面.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "01-cover.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "02-少贴标签.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "02-labels.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "03-找到长处.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "03-strengths.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "04-看清消耗.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "04-energy.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "05-排出选择.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "05-priorities.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "06-我的使用说明.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "06-card.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  }
+]
