@@ -1,0 +1,52 @@
+[
+  {
+    "file": "01-封面.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "01-cover.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "02-先看统计对象.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "02-facts.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "03-平均数不是多数人.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "03-average.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "04-税前与到手.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "04-paycheck.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "05-薪资核对卡.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "05-action.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  }
+]

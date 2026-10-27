@@ -1,0 +1,68 @@
+{
+  "url": "https://www.yicai.com/search?keys=31%E7%9C%81%E4%BB%BD",
+  "accessed_at": "2026-10-27T11:49:58.073878+08:00",
+  "status": 200,
+  "final_url": "https://www.yicai.com/search?keys=31%E7%9C%81%E4%BB%BD",
+  "text": "站内搜索\n你在\n全文\n中搜索\n，我们共找到\n0\n条结果。\n全文\n标题\n新闻\n视频\n图集\n大直播\n专题\n热词\n快讯\n加载更多内容\n关闭广告",
+  "links": [
+    {
+      "url": "javascript:thisSearch()",
+      "text": ""
+    },
+    {
+      "url": "javascript:void(0)",
+      "text": "全文"
+    },
+    {
+      "url": "javascript:void(0)",
+      "text": "标题"
+    },
+    {
+      "url": "javascript:void(0)",
+      "text": "新闻"
+    },
+    {
+      "url": "javascript:void(0)",
+      "text": "视频"
+    },
+    {
+      "url": "javascript:void(0)",
+      "text": "图集"
+    },
+    {
+      "url": "javascript:void(0)",
+      "text": "大直播"
+    },
+    {
+      "url": "javascript:void(0)",
+      "text": "专题"
+    },
+    {
+      "url": "javascript:void(0)",
+      "text": "热词"
+    },
+    {
+      "url": "javascript:void(0)",
+      "text": "快讯"
+    },
+    {
+      "url": "javascript:",
+      "text": "关闭广告"
+    }
+  ],
+  "scripts": [
+    "/assets/yc_autologin.js",
+    "/assets/jquery.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-BW57C8STG3",
+    "/assets/crypto-js.min.js",
+    "/assets/Fingerprint2.js",
+    "https://o.alicdn.com/captcha-frontend/aliyunCaptcha/AliyunCaptcha.js",
+    "/assets/gotoMurl.js",
+    "/js/common.js?7a04e988392a5ea52b7f",
+    "/js/search.js?7a04e988392a5ea52b7f"
+  ],
+  "images": [],
+  "metadata": {
+    "description": "第一财经官方网站，7X24小时提供股市行情、经济大势、金融政策、行业动态、专家分析等财经资讯；全网独家直播谈股论金、今日股市、公司与行业、解码财商、头脑风暴等第一财经电视节目。"
+  }
+}

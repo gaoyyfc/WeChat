@@ -1,0 +1,13 @@
+{
+  "url": "https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD%20%E5%8E%BB%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%20%E5%87%BA%E7%82%89%20%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F",
+  "accessed_at": "2026-10-27T11:49:58.072661+08:00",
+  "status": 200,
+  "final_url": "https://wappass.baidu.com/static/captcha/tuxing_v2.html?&logid=11830111527498291641&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fwd%3D31%25E7%259C%2581%25E4%25BB%25BD%2520%25E5%258E%25BB%25E5%25B9%25B4%25E5%25B9%25B3%25E5%259D%2587%25E5%25B7%25A5%25E8%25B5%2584%2520%25E5%2587%25BA%25E7%2582%2589%2520%25E7%25AC%25AC%25E4%25B8%2580%25E8%25B4%25A2%25E7%25BB%258F&ext=x9G9QDmMXq%2FNo87gjGO0Pw9O8v5vaKdFPb5RFUGBZrFSIPuPx9h9pmFSYtnJpM3nUgqUK9LXd1cIlztrhMwiv5JsWPkiWzSnqQ64oXbg%2Ff6oDY2lWBcQud1OquYKHWL0&signature=c178b7b57758563bf14c96e4e314a83f&timestamp=1793072997",
+  "text": "百度安全验证\n网络不给力，请稍后重试\n返回首页\n问题反馈",
+  "links": [],
+  "scripts": [
+    "https://ppui-static-wap.cdn.bcebos.com/static/touch/js/mkdjump_v2_21d1ae1.js"
+  ],
+  "images": [],
+  "metadata": {}
+}
