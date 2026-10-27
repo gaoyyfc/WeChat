@@ -1,0 +1,52 @@
+[
+  {
+    "file": "01-封面.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "01-cover.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "02-同事意见不同.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "02-work.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "03-亲友不理解.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "03-choice.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "04-守住边界.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "04-boundary.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "05-三行整理卡.png",
+    "width": 1080,
+    "height": 1440,
+    "source": "05-practice.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  }
+]
