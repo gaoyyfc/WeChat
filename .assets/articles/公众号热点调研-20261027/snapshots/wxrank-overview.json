@@ -1,0 +1,546 @@
+{
+  "url": "https://wxrank.com/api/overview",
+  "accessed_at": "2026-10-27T11:14:20.992057+08:00",
+  "status": 200,
+  "final_url": "https://wxrank.com/api/overview",
+  "data": {
+    "code": 0,
+    "data": {
+      "stat_date": "2026-10-26",
+      "update_time": "2026-10-27 05:17:23",
+      "active_accounts_7d": 237712,
+      "active_accounts_30d": 327217,
+      "active_accounts_90d": 365623,
+      "active_accounts_365d": 442143,
+      "updated_accounts_7d": 312069,
+      "articles_7d": 1824075,
+      "articles_30d": 8558627,
+      "articles_90d": 28076693,
+      "articles_365d": 116250598,
+      "avg_read_30d": 1866,
+      "hot_articles_30d": 21540,
+      "original_rate_30d": 0.1933,
+      "original_articles_30d": 1654231,
+      "trend": [
+        {
+          "date": "2026-09-26",
+          "articles": 27534,
+          "original": 9885
+        },
+        {
+          "date": "2026-09-27",
+          "articles": 204374,
+          "original": 48240
+        },
+        {
+          "date": "2026-09-28",
+          "articles": 354760,
+          "original": 67049
+        },
+        {
+          "date": "2026-09-29",
+          "articles": 377510,
+          "original": 68356
+        },
+        {
+          "date": "2026-09-30",
+          "articles": 469872,
+          "original": 71743
+        },
+        {
+          "date": "2026-10-01",
+          "articles": 271374,
+          "original": 49854
+        },
+        {
+          "date": "2026-10-02",
+          "articles": 201133,
+          "original": 44913
+        },
+        {
+          "date": "2026-10-03",
+          "articles": 189354,
+          "original": 43397
+        },
+        {
+          "date": "2026-10-04",
+          "articles": 183546,
+          "original": 42749
+        },
+        {
+          "date": "2026-10-05",
+          "articles": 189447,
+          "original": 44945
+        },
+        {
+          "date": "2026-10-06",
+          "articles": 189291,
+          "original": 44801
+        },
+        {
+          "date": "2026-10-07",
+          "articles": 207191,
+          "original": 49179
+        },
+        {
+          "date": "2026-10-08",
+          "articles": 347059,
+          "original": 66165
+        },
+        {
+          "date": "2026-10-09",
+          "articles": 345000,
+          "original": 66585
+        },
+        {
+          "date": "2026-10-10",
+          "articles": 341644,
+          "original": 62136
+        },
+        {
+          "date": "2026-10-11",
+          "articles": 215886,
+          "original": 50350
+        },
+        {
+          "date": "2026-10-12",
+          "articles": 349650,
+          "original": 66870
+        },
+        {
+          "date": "2026-10-13",
+          "articles": 358659,
+          "original": 65877
+        },
+        {
+          "date": "2026-10-14",
+          "articles": 359550,
+          "original": 66930
+        },
+        {
+          "date": "2026-10-15",
+          "articles": 365187,
+          "original": 66889
+        },
+        {
+          "date": "2026-10-16",
+          "articles": 394511,
+          "original": 67432
+        },
+        {
+          "date": "2026-10-17",
+          "articles": 233441,
+          "original": 49386
+        },
+        {
+          "date": "2026-10-18",
+          "articles": 229342,
+          "original": 50306
+        },
+        {
+          "date": "2026-10-19",
+          "articles": 362912,
+          "original": 66508
+        },
+        {
+          "date": "2026-10-20",
+          "articles": 359114,
+          "original": 66059
+        },
+        {
+          "date": "2026-10-21",
+          "articles": 360143,
+          "original": 65903
+        },
+        {
+          "date": "2026-10-22",
+          "articles": 378019,
+          "original": 65149
+        },
+        {
+          "date": "2026-10-23",
+          "articles": 383147,
+          "original": 64037
+        },
+        {
+          "date": "2026-10-24",
+          "articles": 193463,
+          "original": 39748
+        },
+        {
+          "date": "2026-10-25",
+          "articles": 116490,
+          "original": 22787
+        },
+        {
+          "date": "2026-10-26",
+          "articles": 24,
+          "original": 3
+        }
+      ],
+      "category_json": [
+        {
+          "name": "财经",
+          "accounts": 346564,
+          "articles_30d": 196752,
+          "avg_read_30d": 2373,
+          "original_30d": 50566,
+          "active_accounts_30d": 95594
+        },
+        {
+          "name": "时事",
+          "accounts": 267301,
+          "articles_30d": 20166,
+          "avg_read_30d": 5489,
+          "original_30d": 2346,
+          "active_accounts_30d": 699
+        },
+        {
+          "name": "健康",
+          "accounts": 253463,
+          "articles_30d": 759074,
+          "avg_read_30d": 1711,
+          "original_30d": 156876,
+          "active_accounts_30d": 40274
+        },
+        {
+          "name": "政务",
+          "accounts": 163059,
+          "articles_30d": 218955,
+          "avg_read_30d": 1648,
+          "original_30d": 13042,
+          "active_accounts_30d": 23444
+        },
+        {
+          "name": "教育",
+          "accounts": 159998,
+          "articles_30d": 1190705,
+          "avg_read_30d": 1268,
+          "original_30d": 199089,
+          "active_accounts_30d": 52711
+        },
+        {
+          "name": "读书",
+          "accounts": 90257,
+          "articles_30d": 141487,
+          "avg_read_30d": 1212,
+          "original_30d": 36402,
+          "active_accounts_30d": 9562
+        },
+        {
+          "name": "文化",
+          "accounts": 68648,
+          "articles_30d": 295820,
+          "avg_read_30d": 1032,
+          "original_30d": 58636,
+          "active_accounts_30d": 12174
+        },
+        {
+          "name": "生活",
+          "accounts": 65374,
+          "articles_30d": 256524,
+          "avg_read_30d": 2535,
+          "original_30d": 38170,
+          "active_accounts_30d": 9957
+        },
+        {
+          "name": "汽车",
+          "accounts": 45998,
+          "articles_30d": 114087,
+          "avg_read_30d": 3410,
+          "original_30d": 33731,
+          "active_accounts_30d": 3434
+        },
+        {
+          "name": "情感",
+          "accounts": 45421,
+          "articles_30d": 82101,
+          "avg_read_30d": 2193,
+          "original_30d": 26473,
+          "active_accounts_30d": 4853
+        },
+        {
+          "name": "体育",
+          "accounts": 40128,
+          "articles_30d": 157583,
+          "avg_read_30d": 3477,
+          "original_30d": 42182,
+          "active_accounts_30d": 6189
+        },
+        {
+          "name": "商业",
+          "accounts": 39651,
+          "articles_30d": 130278,
+          "avg_read_30d": 2450,
+          "original_30d": 40093,
+          "active_accounts_30d": 3765
+        },
+        {
+          "name": "娱乐",
+          "accounts": 34552,
+          "articles_30d": 143833,
+          "avg_read_30d": 3763,
+          "original_30d": 39474,
+          "active_accounts_30d": 4520
+        },
+        {
+          "name": "法律",
+          "accounts": 30917,
+          "articles_30d": 502649,
+          "avg_read_30d": 2301,
+          "original_30d": 58188,
+          "active_accounts_30d": 11289
+        },
+        {
+          "name": "职场",
+          "accounts": 30505,
+          "articles_30d": 234822,
+          "avg_read_30d": 1188,
+          "original_30d": 25267,
+          "active_accounts_30d": 7657
+        },
+        {
+          "name": "科技",
+          "accounts": 27986,
+          "articles_30d": 90740,
+          "avg_read_30d": 1941,
+          "original_30d": 38847,
+          "active_accounts_30d": 8367
+        },
+        {
+          "name": "设计",
+          "accounts": 20396,
+          "articles_30d": 19334,
+          "avg_read_30d": 1317,
+          "original_30d": 4254,
+          "active_accounts_30d": 2090
+        },
+        {
+          "name": "科学",
+          "accounts": 18658,
+          "articles_30d": 191259,
+          "avg_read_30d": 1247,
+          "original_30d": 54963,
+          "active_accounts_30d": 6577
+        },
+        {
+          "name": "摄影",
+          "accounts": 13169,
+          "articles_30d": 64678,
+          "avg_read_30d": 1796,
+          "original_30d": 18668,
+          "active_accounts_30d": 2194
+        },
+        {
+          "name": "军事",
+          "accounts": 15728,
+          "articles_30d": 195849,
+          "avg_read_30d": 2757,
+          "original_30d": 60605,
+          "active_accounts_30d": 4316
+        },
+        {
+          "name": "母婴",
+          "accounts": 12025,
+          "articles_30d": 28563,
+          "avg_read_30d": 2144,
+          "original_30d": 6199,
+          "active_accounts_30d": 1074
+        },
+        {
+          "name": "房产",
+          "accounts": 10076,
+          "articles_30d": 90356,
+          "avg_read_30d": 2133,
+          "original_30d": 21029,
+          "active_accounts_30d": 1887
+        },
+        {
+          "name": "农业",
+          "accounts": 6088,
+          "articles_30d": 149725,
+          "avg_read_30d": 1190,
+          "original_30d": 25316,
+          "active_accounts_30d": 801
+        },
+        {
+          "name": "宗教",
+          "accounts": 21716,
+          "articles_30d": 47250,
+          "avg_read_30d": 1144,
+          "original_30d": 10867,
+          "active_accounts_30d": 13674
+        }
+      ],
+      "region_json": [
+        {
+          "name": "广东",
+          "accounts": 57341,
+          "articles_30d": 945149
+        },
+        {
+          "name": "北京",
+          "accounts": 44706,
+          "articles_30d": 738157
+        },
+        {
+          "name": "上海",
+          "accounts": 31719,
+          "articles_30d": 442619
+        },
+        {
+          "name": "浙江",
+          "accounts": 29717,
+          "articles_30d": 464177
+        },
+        {
+          "name": "江苏",
+          "accounts": 28025,
+          "articles_30d": 496351
+        },
+        {
+          "name": "山东",
+          "accounts": 25481,
+          "articles_30d": 571843
+        },
+        {
+          "name": "四川",
+          "accounts": 19594,
+          "articles_30d": 333033
+        },
+        {
+          "name": "河南",
+          "accounts": 19510,
+          "articles_30d": 407075
+        },
+        {
+          "name": "湖北",
+          "accounts": 15748,
+          "articles_30d": 285862
+        },
+        {
+          "name": "福建",
+          "accounts": 15207,
+          "articles_30d": 315295
+        },
+        {
+          "name": "陕西",
+          "accounts": 14795,
+          "articles_30d": 287168
+        },
+        {
+          "name": "河北",
+          "accounts": 13776,
+          "articles_30d": 310775
+        },
+        {
+          "name": "湖南",
+          "accounts": 13375,
+          "articles_30d": 241145
+        },
+        {
+          "name": "安徽",
+          "accounts": 10637,
+          "articles_30d": 242918
+        },
+        {
+          "name": "江西",
+          "accounts": 9383,
+          "articles_30d": 208229
+        },
+        {
+          "name": "山西",
+          "accounts": 8842,
+          "articles_30d": 240286
+        },
+        {
+          "name": "广西",
+          "accounts": 8148,
+          "articles_30d": 190155
+        },
+        {
+          "name": "云南",
+          "accounts": 7985,
+          "articles_30d": 189397
+        },
+        {
+          "name": "辽宁",
+          "accounts": 7628,
+          "articles_30d": 181914
+        },
+        {
+          "name": "重庆",
+          "accounts": 7013,
+          "articles_30d": 131913
+        },
+        {
+          "name": "内蒙古",
+          "accounts": 6357,
+          "articles_30d": 183973
+        },
+        {
+          "name": "甘肃",
+          "accounts": 6235,
+          "articles_30d": 167922
+        },
+        {
+          "name": "天津",
+          "accounts": 5922,
+          "articles_30d": 121178
+        },
+        {
+          "name": "贵州",
+          "accounts": 5810,
+          "articles_30d": 138036
+        },
+        {
+          "name": "黑龙江",
+          "accounts": 4800,
+          "articles_30d": 158870
+        },
+        {
+          "name": "吉林",
+          "accounts": 3665,
+          "articles_30d": 96055
+        },
+        {
+          "name": "新疆",
+          "accounts": 3581,
+          "articles_30d": 128102
+        },
+        {
+          "name": "海南",
+          "accounts": 2800,
+          "articles_30d": 75650
+        },
+        {
+          "name": "美国",
+          "accounts": 2163,
+          "articles_30d": 0
+        },
+        {
+          "name": "宁夏",
+          "accounts": 1764,
+          "articles_30d": 45196
+        }
+      ],
+      "article_format_json": [
+        {
+          "name": "文章类",
+          "articles_30d": 7907912,
+          "avg_read_30d": 1887
+        },
+        {
+          "name": "贴图类",
+          "articles_30d": 594360,
+          "avg_read_30d": 1209
+        },
+        {
+          "name": "笔记类",
+          "articles_30d": 56355,
+          "avg_read_30d": 5877
+        }
+      ]
+    }
+  }
+}
