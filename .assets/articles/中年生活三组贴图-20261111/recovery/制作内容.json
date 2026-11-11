@@ -1,0 +1,139 @@
+{
+  "slug": "recovery",
+  "folder": "下班后把自己照顾回来-20261111",
+  "title": "下班后什么都不想做，怎么把自己照顾回来？",
+  "eyebrow": "下班后的自我照顾",
+  "intro": "下班后没力气，不必再给自己加任务。从换衣、吃饭、减掉一件事开始，给疲惫的自己留一点余地。",
+  "body": "下班到家，包还没放稳，人就想先瘫一会儿。明明还有家务、学习和一堆计划，身体却只想说：今天先到这里吧。\n\n有时不是缺少自律，只是一天里需要回应的人和事太多了。这个晚上，可以先不安排“变得更好”，把吃饭、休息和眼前的需要照顾一下。\n\n进门先换身衣服；饿了吃点简单的饭；能延后的家务，留到明天。若刷手机反而更烦，可以换成洗个脸、听两首歌，或下楼慢慢走一小圈。选一个就够，不用打卡。\n\n如果你还得照顾家人，也可以商量着分一项家务、换一小段休息时间。休息不必等到所有事都做完。\n\n如果疲惫持续几周，休息后仍不缓解，或已经影响日常生活，可以就医评估身体和情绪状况。\n\n今晚，你最想替自己减掉哪一件事？",
+  "references": [
+    "02-大字备忘录.jpg",
+    "06-生活摄影.png"
+  ],
+  "style": "calm everyday lifestyle photography combined with large readable editorial typography, linen-white page, desaturated dusk-blue label, warm natural indoor practical light; modest ordinary home, unstyled real-life still life, quiet and tactile, no people",
+  "palette": {
+    "background": "#F6F5F1",
+    "ink": "#28343B",
+    "accent": "#CDDADD",
+    "secondary": "#D7BFA6"
+  },
+  "cards": [
+    {
+      "id": "01-cover",
+      "output": "01-封面",
+      "layout": "photo-cover",
+      "title": "下班后\n什么都不想做，\n怎么把自己\n照顾回来？",
+      "subtitle": "先从不用咬牙的小事开始",
+      "visual": "original natural photography, an ordinary home entry corner in soft evening light, a canvas bag just placed on a plain wooden chair, a pair of everyday slippers on the floor, modest lived-in interior with subtle imperfections; no human, no luxury decor; lower 38% photograph, upper white area reserved for bold headline"
+    },
+    {
+      "id": "02-transition",
+      "output": "02-先给自己一个过渡",
+      "layout": "photo-notes",
+      "title": "进门后，\n先给自己一个过渡",
+      "blocks": [
+        {
+          "label": "换身衣服，洗把脸",
+          "text": "让身体知道：已经回家了。"
+        },
+        {
+          "label": "先缓一会儿，再接下一件事",
+          "text": "可以跟家人说：\n我先歇10分钟，等会儿再聊。"
+        }
+      ],
+      "takeaway": "需要待命的消息，可以单独保留提醒。",
+      "visual": "original close everyday still-life photo of soft cotton home clothes folded on a simple chair beside a plain washcloth; a warm ordinary hallway background, no person or mirror; image in a lower-third rectangular panel"
+    },
+    {
+      "id": "03-body",
+      "output": "03-先问身体缺什么",
+      "layout": "photo-rows",
+      "title": "先问身体，\n现在最缺什么",
+      "blocks": [
+        {
+          "label": "饿了",
+          "text": "吃点简单的饭。"
+        },
+        {
+          "label": "渴了",
+          "text": "给自己倒杯水。"
+        },
+        {
+          "label": "困了",
+          "text": "把今晚的安排减一点。"
+        }
+      ],
+      "takeaway": "先照顾身体，再决定今晚做多少。",
+      "visual": "original overhead natural photo of one simple freshly made home-cooked bowl of noodles with vegetables and egg, plus a plain glass of water on a light wooden table; no branding or text on objects, no staged abundance; photo in lower 35% panel"
+    },
+    {
+      "id": "04-reduce",
+      "output": "04-今晚少做一点也可以",
+      "layout": "photo-rows",
+      "title": "今晚少做一点，\n也可以",
+      "blocks": [
+        {
+          "label": "必须做的",
+          "text": "选一件，先做眼前这一件。"
+        },
+        {
+          "label": "能延后的",
+          "text": "留到明天再安排。"
+        },
+        {
+          "label": "能分担的",
+          "text": "和家人商量，分一项家务。"
+        }
+      ],
+      "takeaway": "休息不必等到所有事都做完。",
+      "visual": "original natural photo of a modest kitchen table, a small folded dishcloth and a partly closed plain notebook, no writing on notebook, warm lamp light, soft realistic imperfect surfaces; lower third photo panel"
+    },
+    {
+      "id": "05-low-effort",
+      "output": "05-换个不费力的休息",
+      "layout": "photo-rows",
+      "title": "刷手机越刷越累，\n换个不费力的休息",
+      "blocks": [
+        {
+          "label": "洗把脸",
+          "text": "让自己清爽一点。"
+        },
+        {
+          "label": "听两首歌",
+          "text": "坐着听，不用顺便干活。"
+        },
+        {
+          "label": "慢慢走一小圈",
+          "text": "到楼下透透气。"
+        }
+      ],
+      "takeaway": "选一个就够，不用打卡。",
+      "visual": "original calm photo of a simple residential tree-lined walkway at dusk, empty and ordinary, no city landmarks, no person, no dramatic sunset; blue-gray and warm evening tones, lower third photo panel"
+    },
+    {
+      "id": "06-save-card",
+      "output": "06-低电量晚间照顾卡",
+      "layout": "recovery-checklist",
+      "title": "没力气的晚上，\n这张卡留着用",
+      "blocks": [
+        {
+          "label": "先过渡",
+          "text": "换衣、洗脸，缓一会儿。"
+        },
+        {
+          "label": "顾身体",
+          "text": "吃点饭，喝点水。"
+        },
+        {
+          "label": "减一件",
+          "text": "能延后的事，明天再说。"
+        },
+        {
+          "label": "早收尾",
+          "text": "不用等事情全做完才休息。"
+        }
+      ],
+      "takeaway": "持续疲惫、影响日常时，可以就医评估。",
+      "visual": "a tiny original photographic crop of a warm bedside lamp and clear water glass, lower right; mostly roomy typographic checklist with muted blue rectangular tabs; no battery diagram, no medical icon"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "file": "01-封面.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "01-cover.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "02-先给自己一个过渡.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "02-transition.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "03-先问身体缺什么.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "03-body.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "04-今晚少做一点也可以.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "04-reduce.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "05-换个不费力的休息.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "05-low-effort.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "06-低电量晚间照顾卡.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "06-save-card.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  }
+]

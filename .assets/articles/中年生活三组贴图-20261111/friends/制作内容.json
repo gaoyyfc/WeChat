@@ -1,0 +1,131 @@
+{
+  "slug": "friends",
+  "folder": "中年朋友越来越少-20261111",
+  "title": "人到中年，朋友越来越少，还要勉强合群吗？",
+  "eyebrow": "中年人的关系笔记",
+  "intro": "朋友变少，不一定要急着补满。看清哪些聚会值得去、哪些关系想留下，再把来往调到舒服的距离。",
+  "body": "以前约一顿饭，群里一喊就能凑齐。现在有工作、有家事，想见的人不一定有空，有空的局又不一定想去。\n\n朋友慢慢变少，有时是生活节奏变了，有时是我们终于发现，有些来往实在太费劲。先别急着给自己贴上“不合群”的标签。\n\n可以看看，一次见面之后，你是轻松了一点，还是得花很久消化那些不舒服？偶尔疲惫很正常，反复硬撑的关系，才值得重新安排距离。\n\n不想参加的聚会，可以好好拒绝；真想念的人，也可以主动发条消息。未必每次都约一桌人，两个人散散步、吃碗面，一样是在认真交朋友。\n\n你现在更想留下哪一种来往？",
+  "references": [
+    "02-大字备忘录.jpg",
+    "08-学习笔记.jpg"
+  ],
+  "style": "airy adult editorial relationship notes, warm-white base with muted sage-green note papers, dark charcoal sans-serif, one restrained mustard underline; a few ordinary teacup and envelope cutout still-life details, never people or cartoon",
+  "palette": {
+    "background": "#F8F7F1",
+    "ink": "#242D28",
+    "accent": "#BCD0BD",
+    "secondary": "#E9E1BF"
+  },
+  "cards": [
+    {
+      "id": "01-cover",
+      "output": "01-封面",
+      "layout": "cover",
+      "title": "人到中年，\n朋友越来越少，\n还要勉强\n合群吗？",
+      "subtitle": "少一点硬撑，留一点舒服的来往",
+      "visual": "two simple white ceramic cups on a tiny light-wood tabletop crop at bottom right, subtle original still-life photo cutout occupying no more than 15% of the page; two offset sage note-paper shapes behind the title, clean flat layers"
+    },
+    {
+      "id": "02-different-rhythm",
+      "output": "02-朋友少先别急着怪自己",
+      "layout": "two-notes",
+      "title": "朋友少了，\n先别急着怪自己",
+      "blocks": [
+        {
+          "label": "有时是生活节奏变了",
+          "text": "工作、家事、住得远，\n让见面没那么容易。"
+        },
+        {
+          "label": "有时是你想要的不一样了",
+          "text": "不想再陪着攀比，\n也不想每次都勉强自己。"
+        }
+      ],
+      "takeaway": "先分清：你想念谁，又在勉强什么。",
+      "visual": "two distinct horizontal paper notes with matching small simple calendar and teacup still-life cutouts; tiny objects, not illustration characters"
+    },
+    {
+      "id": "03-three-questions",
+      "output": "03-聚会前问自己三件事",
+      "layout": "three-rows",
+      "title": "一个聚会值不值得去，\n先问自己3件事",
+      "blocks": [
+        {
+          "label": "去之前",
+          "text": "是真想见，还是怕被说？"
+        },
+        {
+          "label": "见面时",
+          "text": "能自在说话，还是一直赔笑？"
+        },
+        {
+          "label": "回家后",
+          "text": "有点满足，还是又累又憋屈？"
+        }
+      ],
+      "takeaway": "偶尔疲惫很正常，反复难受才值得调整。",
+      "visual": "three roomy sage paper strips aligned vertically; restrained connecting bracket, no collage clutter"
+    },
+    {
+      "id": "04-distance",
+      "output": "04-关系可以有不同距离",
+      "layout": "three-rows",
+      "title": "关系可以\n有不同的距离",
+      "blocks": [
+        {
+          "label": "常联系",
+          "text": "能彼此关心，有事也能商量。"
+        },
+        {
+          "label": "偶尔见",
+          "text": "不常聊天，见面仍然舒服。"
+        },
+        {
+          "label": "少接触",
+          "text": "反复贬低你，让你总在硬撑。"
+        }
+      ],
+      "takeaway": "不用把每个认识的人，都变成亲近的人。",
+      "visual": "three separate paper tags arranged with generous vertical distance, thin sage connectors only; no hierarchy pyramid, no scoring or labels on people"
+    },
+    {
+      "id": "05-decline",
+      "output": "05-不想去也能好好拒绝",
+      "layout": "quotes",
+      "title": "不想去，\n也能好好说",
+      "blocks": [
+        {
+          "label": "想在家休息时",
+          "text": "这次我想在家歇歇，\n就不参加了。"
+        },
+        {
+          "label": "想见人，但不想凑局时",
+          "text": "这次聚会我就不去了，\n咱们改天单独吃个饭？"
+        }
+      ],
+      "takeaway": "拒绝这次邀请，不等于拒绝这个人。",
+      "visual": "two original handwritten-note style paper blocks, but type is clear printed sans-serif; tiny folded blank envelope at the lower corner"
+    },
+    {
+      "id": "06-keep-contact",
+      "output": "06-把舒服的来往留下",
+      "layout": "three-rows",
+      "title": "不用硬撑着合群，\n也别把联系全断了",
+      "blocks": [
+        {
+          "label": "想念谁",
+          "text": "主动发条消息，不必等节日。"
+        },
+        {
+          "label": "真想见",
+          "text": "约个散步，或一起吃碗面。"
+        },
+        {
+          "label": "暂时没空",
+          "text": "说声最近忙，改天再联系。"
+        }
+      ],
+      "takeaway": "朋友不必很多，来往可以更真实一点。",
+      "visual": "a small original overhead still-life of two everyday teacups at the bottom edge; three airy note rows with green labels"
+    }
+  ]
+}

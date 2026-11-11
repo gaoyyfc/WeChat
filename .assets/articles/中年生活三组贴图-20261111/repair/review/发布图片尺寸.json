@@ -1,0 +1,86 @@
+[
+  {
+    "file": "01-封面.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "01-cover.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "02-上门检测怎么收费.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "02-visit-fee.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "03-报价包括哪些费用.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "03-total.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "04-新增费用先确认.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "04-additions.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "05-换什么配件.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "05-parts.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "06-售后和凭证怎么留.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "06-warranty.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "07-维修前五问保存卡.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "07-save-card.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  }
+]

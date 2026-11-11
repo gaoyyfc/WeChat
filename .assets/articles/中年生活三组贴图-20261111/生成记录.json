@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-11",
+  "backend": "api-image",
+  "model": "gpt-image-2",
+  "endpoint_type": "images/edits",
+  "quality": "high",
+  "publication_size": [
+    1080,
+    1440
+  ],
+  "images": 19,
+  "prompt_workflow": "baoyu-article-illustrator",
+  "provider_source": "current Codex root, selected CCSwitch upstream if loopback; values stay in memory",
+  "postprocessing": "proportional resize, compression and contact sheets only",
+  "requested_size": [
+    1152,
+    1536
+  ],
+  "returned_size_note": "Provider may return 1086x1448; actual dimensions recorded per card during export. All selected publication sources must be 3:4.",
+  "archived_candidate_count": 1,
+  "revision": "repair/02-visit-fee: rerendered from revised prompt to enforce 3:4; earlier 2:3 image retained under generated/history.",
+  "actual_selected_sources": [
+    {
+      "series": "friends",
+      "file": "01-cover.png"
+    },
+    {
+      "series": "friends",
+      "file": "02-different-rhythm.png"
+    },
+    {
+      "series": "friends",
+      "file": "03-three-questions.png"
+    },
+    {
+      "series": "friends",
+      "file": "04-distance.png"
+    },
+    {
+      "series": "friends",
+      "file": "05-decline.png"
+    },
+    {
+      "series": "friends",
+      "file": "06-keep-contact.png"
+    },
+    {
+      "series": "recovery",
+      "file": "01-cover.png"
+    },
+    {
+      "series": "recovery",
+      "file": "02-transition.png"
+    },
+    {
+      "series": "recovery",
+      "file": "03-body.png"
+    },
+    {
+      "series": "recovery",
+      "file": "04-reduce.png"
+    },
+    {
+      "series": "recovery",
+      "file": "05-low-effort.png"
+    },
+    {
+      "series": "recovery",
+      "file": "06-save-card.png"
+    },
+    {
+      "series": "repair",
+      "file": "01-cover.png"
+    },
+    {
+      "series": "repair",
+      "file": "02-visit-fee.png"
+    },
+    {
+      "series": "repair",
+      "file": "03-total.png"
+    },
+    {
+      "series": "repair",
+      "file": "04-additions.png"
+    },
+    {
+      "series": "repair",
+      "file": "05-parts.png"
+    },
+    {
+      "series": "repair",
+      "file": "06-warranty.png"
+    },
+    {
+      "series": "repair",
+      "file": "07-save-card.png"
+    }
+  ]
+}

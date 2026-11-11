@@ -1,0 +1,115 @@
+{
+  "slug": "repair",
+  "folder": "上门维修前问清五句话-20261111",
+  "title": "上门维修前，把这5句话问清楚",
+  "eyebrow": "家电维修问价清单",
+  "intro": "上门费、总价、临时增项、配件和售后，预约时先问明白。最后一张可截图保存，联系师傅前对照着用。",
+  "body": "家里东西坏了，很多人开口先问一句：“修一下多少钱？”对方说得轻巧，等人到了，才发现上门、检测、拆装、配件可能分别计费。\n\n以家电维修为例，比起只问一个起步价，更有用的是把收费拆开问：检测后不修付什么钱、报价包含哪些项目、临时加项能不能等自己确认后再做。需要换件，也把配件信息、维修后的保修范围和期限问清楚。\n\n这组图整理了5句可以直接发给客服或师傅的话。暂时无法确定总价的，先问清检测费；检测后再看明细、确认方案，不急着说“你看着弄吧”。\n\n预约前，优先从产品说明书、保修卡或品牌官方渠道核对联系方式；还在保修期内的，先联系官方售后核实保修范围和收费依据。付款时核对维修明细，并保留订单、沟通记录和票据。\n\n发生争议，先找商家或平台协商；协商不成，可以通过全国12315平台反映。具体收费和保修安排，按服务项目及事先确认的约定核实。\n\n你遇到过哪一种维修加价？",
+  "references": [
+    "02-大字备忘录.jpg",
+    "04-清单攻略卡.jpg"
+  ],
+  "style": "high-contrast practical consumer checklist, off-white page, navy-black clean bold sans-serif, restrained bright orange rectangular question numbers, clear ruled lines, tiny generic real tool still-life cutouts; mature utilitarian editorial design, not comic or safety poster",
+  "palette": {
+    "background": "#FBFAF7",
+    "ink": "#172A3A",
+    "accent": "#ED9D52",
+    "secondary": "#E8EDF0"
+  },
+  "cards": [
+    {
+      "id": "01-cover",
+      "output": "01-封面",
+      "layout": "repair-cover",
+      "title": "上门维修前，\n把这5句话\n问清楚",
+      "subtitle": "别只问：“修一下多少钱？”",
+      "visual": "a compact original natural still-life of a generic simple screwdriver and adjustable wrench beside blank service-paper sheets on an ordinary tabletop, confined to lower 25%; large orange circle with number 5 is allowed only if that digit is already part of title, avoid duplicate decorative text; no real brand, no appliance technical diagram"
+    },
+    {
+      "id": "02-visit-fee",
+      "output": "02-上门检测怎么收费",
+      "layout": "question",
+      "number": "01",
+      "title": "上门和检测，\n分别怎么收费？",
+      "quote": "如果检测后不修，\n我需要付哪些钱？",
+      "detail": "上门费、检测费、取消费用，\n预约前分别问明白。",
+      "takeaway": "请对方用文字发来收费标准。",
+      "visual": "one bold numbered question card, one airy quote panel, small generic flat-lay of blank booking note and pen at lower right; no prices, invented amounts or fake receipt",
+      "revision_geometry": "the output canvas MUST match the 3:4 portrait ratio of the first reference cover, exactly. It must not be 2:3. Use a WIDER, less tall composition. All content fits comfortably on a 3:4 page, with the question panel taking only about a fifth of the canvas height. Keep the footer above the 90 px safe area. Preserve every supplied Chinese label, but wrap and rebalance the layout to fit 3:4; remove decorative objects if needed. This is a full new rendering, not an overlay repair."
+    },
+    {
+      "id": "03-total",
+      "output": "03-报价包括哪些费用",
+      "layout": "question",
+      "number": "02",
+      "title": "这次报价，\n都包括什么？",
+      "quote": "人工、配件分别多少钱？\n拆装、高空等费用另收吗？",
+      "detail": "总价暂时定不了，\n先问清检测费，再确认维修方案。",
+      "takeaway": "别把“起步价”当成最后的总价。",
+      "visual": "a simple original blank quote form with three thin empty rows and a pen, decorative only, no document text; navy-orange pricing checklist layout, no real legal form"
+    },
+    {
+      "id": "04-additions",
+      "output": "04-新增费用先确认",
+      "layout": "question",
+      "number": "03",
+      "title": "需要加项目，\n能先等我确认吗？",
+      "quote": "新增项目或费用，请先发给我，\n等我确认后再做。",
+      "detail": "项目、单价、数量都说清楚，\n再决定要不要继续。",
+      "takeaway": "别用“你看着弄”，代替逐项确认。",
+      "visual": "two clean editorial speech panels joined by one small pause bar symbol, no fake app UI, no red warning, no people; tiny original ordinary pen still-life corner"
+    },
+    {
+      "id": "05-parts",
+      "output": "05-换什么配件",
+      "layout": "question",
+      "number": "04",
+      "title": "换什么配件，\n能写清楚吗？",
+      "quote": "配件名称、型号、品牌，\n能写进维修单吗？",
+      "detail": "拆下的旧件，\n能让我看一下吗？",
+      "takeaway": "是否换件、换什么件，先确认。",
+      "visual": "two small plain unbranded parts cartons beside a generic screwdriver, original photograph cutout only; no circuit board diagram, no technical compatibility claims, no made-up brand or model text"
+    },
+    {
+      "id": "06-warranty",
+      "output": "06-售后和凭证怎么留",
+      "layout": "question",
+      "number": "05",
+      "title": "修完保多久，\n能给哪些凭证？",
+      "quote": "保修范围和期限是什么？\n能给维修明细和发票吗？",
+      "detail": "付款前核对项目和金额，\n也确认故障是否排除。",
+      "takeaway": "订单、沟通记录、维修凭证都留好。",
+      "visual": "an original close still-life crop of a blank service-paper folder held together by a small plain binder clip, no actual invoice or official stamp; clean practical checklist design"
+    },
+    {
+      "id": "07-save-card",
+      "output": "07-维修前五问保存卡",
+      "layout": "repair-checklist",
+      "title": "联系维修前，\n照着这张卡问",
+      "blocks": [
+        {
+          "label": "01  上门和检测",
+          "text": "不修的话，需要付哪些钱？"
+        },
+        {
+          "label": "02  报价范围",
+          "text": "人工、配件、附加费都算了吗？"
+        },
+        {
+          "label": "03  新增项目",
+          "text": "能先报价，等我确认再做吗？"
+        },
+        {
+          "label": "04  更换配件",
+          "text": "名称、型号、品牌能写清楚吗？"
+        },
+        {
+          "label": "05  售后凭证",
+          "text": "保多久，能给明细和发票吗？"
+        }
+      ],
+      "takeaway": "预约前，先从官方渠道核对联系方式。",
+      "visual": "five very legible ruled rows, small orange number tabs, generous spacing, no photo required, no tiny legal footer"
+    }
+  ]
+}

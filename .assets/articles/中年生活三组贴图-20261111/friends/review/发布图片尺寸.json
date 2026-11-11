@@ -1,0 +1,74 @@
+[
+  {
+    "file": "01-封面.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "01-cover.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "02-朋友少先别急着怪自己.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "02-different-rhythm.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "03-聚会前问自己三件事.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "03-three-questions.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "04-关系可以有不同距离.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "04-distance.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "05-不想去也能好好拒绝.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "05-decline.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "06-把舒服的来往留下.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "06-keep-contact.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "topics": [
+    {
+      "title": "人到中年，朋友越来越少，还要勉强合群吗？",
+      "images": 6,
+      "package": "outputs/中年朋友越来越少-20261111/中年朋友越来越少-公众号贴图发布包.zip",
+      "checks": "passed"
+    },
+    {
+      "title": "下班后什么都不想做，怎么把自己照顾回来？",
+      "images": 6,
+      "package": "outputs/下班后把自己照顾回来-20261111/下班后把自己照顾回来-公众号贴图发布包.zip",
+      "checks": "passed"
+    },
+    {
+      "title": "上门维修前，把这5句话问清楚",
+      "images": 7,
+      "package": "outputs/上门维修前问清五句话-20261111/上门维修前问清五句话-公众号贴图发布包.zip",
+      "checks": "passed"
+    }
+  ],
+  "total_images": 19,
+  "total_zip_entries": 31,
+  "credentials_scan": "passed",
+  "zip_integrity": "passed"
+}
