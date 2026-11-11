@@ -1,0 +1,5 @@
+{
+  "url": "https://wxrank.com/api/rank/account?range=7d&page=1",
+  "accessed_at": "2026-11-11T14:25:30.667199+08:00",
+  "error": "HTTPError: HTTP Error 401: Unauthorized"
+}

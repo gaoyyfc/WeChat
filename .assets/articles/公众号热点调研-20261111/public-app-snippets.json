@@ -1,0 +1,6 @@
+{
+  "url": "https://wxrank.com/static/js/app.js?v=1792396961",
+  "snippets": [
+    "天', '90': '近90天' },\n    sort_dir: { asc: '升序', desc: '降序' },\n    dir: { asc: '升序', desc: '降序' },\n    verify: { '1': '已认证', '0': '未认证' },\n    content: { '2': '原创', '3': '转载' },\n    format: { is_book: '贴图', is_note: '笔记' },\n    q_scope: { name: '名称', desc: '简介', verify: '认证主体', all: '全部', title: '标题', content_text: '内容' },\n    idx: { '1': '头条', '2': '次条', '3': '三条', '4': '四条', '5': '五条', '6': '六条', '7': '七条', '8': '八条', '3+': '三条以后' },\n    sort: { pub_time: '发布时间', read_num: '阅读', like_num: '点赞', look_num: '推荐', share_num: '分享', comment_num: '留言', word_num: '字数' },\n    region: { __overseas__: '海外'"
+  ]
+}

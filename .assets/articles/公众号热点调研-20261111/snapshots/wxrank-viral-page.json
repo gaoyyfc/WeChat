@@ -1,0 +1,71 @@
+{
+  "url": "https://wxrank.com/rank/viral",
+  "accessed_at": "2026-11-11T14:24:40.161033+08:00",
+  "status": 200,
+  "final_url": "https://wxrank.com/rank/viral",
+  "text": "低粉爆文榜 - 微小榜\n微小榜\n公众号数据分析平台\n首页\n榜单\n热门公众号\n热门文章\n低粉爆文\n发现\n公众号广场\n文章广场\n工具\n实时 API\n文章监测\n关于我们\n用户协议\n·\n隐私政策\n津ICP备2026009775号-1\n登录\n低粉爆文榜\n小体量账号发布的高爆发文章，发现内容黑马\n导出\n3天\n7天\n30天\n全部\n#\n标题\n篇次\n分类\n爆发倍率\n阅读\n点赞\n推荐\n分享\n留言\n爆文分\n加载中...\n— 没有更多了 —\n微信登录\n微信扫码登录，新用户扫码后将自动注册\n仅用于身份验证，不会读取或发布您的微信内容\n联系客服\n微信扫码添加客服\n合作咨询 · 使用协助\n开通会员\n该内容需要会员权限，开通会员后查看完整数据\n立即开通\n公众号收录\n提交一篇公众号文章，我们会识别账号并加入资源库\n提交收录\n收录历史\n今日可提交\n加载中\n文章链接\n提交后系统将自动解析并补全公众号资料，预计次日可在公众号广场搜索（T+1）。\n近 100 天未发文的公众号，将不会进入持续监测。\n提交收录\n正在加载...\n正在加载...\n确认导出\n取消\n确认导出",
+  "links": [
+    {
+      "url": "/",
+      "text": "首页"
+    },
+    {
+      "url": "/rank/account",
+      "text": "热门公众号"
+    },
+    {
+      "url": "/rank/article",
+      "text": "热门文章"
+    },
+    {
+      "url": "/rank/viral",
+      "text": "低粉爆文"
+    },
+    {
+      "url": "/search/account",
+      "text": "公众号广场"
+    },
+    {
+      "url": "/search/article",
+      "text": "文章广场"
+    },
+    {
+      "url": "/api-services",
+      "text": "实时 API"
+    },
+    {
+      "url": "/monitor",
+      "text": "文章监测"
+    },
+    {
+      "url": "/about",
+      "text": "关于我们"
+    },
+    {
+      "url": "/terms",
+      "text": "用户协议"
+    },
+    {
+      "url": "/privacy",
+      "text": "隐私政策"
+    },
+    {
+      "url": "https://beian.miit.gov.cn/",
+      "text": "津ICP备2026009775号-1"
+    },
+    {
+      "url": "/member/subscribe",
+      "text": "立即开通"
+    }
+  ],
+  "scripts": [
+    "https://cdn.jsdmirror.com/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js",
+    "https://cdn.jsdmirror.com/npm/echarts@5.4.3/dist/echarts.min.js",
+    "/static/js/app.js?v=1792396961",
+    "//sdk.51.la/js-sdk-pro.min.js"
+  ],
+  "images": [],
+  "metadata": {
+    "description": "微小榜低粉爆文榜挖掘低粉丝体量账号中阅读远超日常水平的爆发式文章，按爆发倍率、爆文分排名，覆盖24个内容分类。"
+  }
+}
