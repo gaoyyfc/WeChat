@@ -1,0 +1,64 @@
+{
+  "pngs": [
+    {
+      "file": "01-封面.png",
+      "size": [
+        1080,
+        1440
+      ],
+      "readable": true
+    },
+    {
+      "file": "02-被一句话否定.png",
+      "size": [
+        1080,
+        1440
+      ],
+      "readable": true
+    },
+    {
+      "file": "03-被临时塞工作.png",
+      "size": [
+        1080,
+        1440
+      ],
+      "readable": true
+    },
+    {
+      "file": "04-被拿来比较.png",
+      "size": [
+        1080,
+        1440
+      ],
+      "readable": true
+    },
+    {
+      "file": "05-被说开不起玩笑.png",
+      "size": [
+        1080,
+        1440
+      ],
+      "readable": true
+    },
+    {
+      "file": "06-当时没回上也能补说.png",
+      "size": [
+        1080,
+        1440
+      ],
+      "readable": true
+    },
+    {
+      "file": "07-回复速查卡.png",
+      "size": [
+        1080,
+        1440
+      ],
+      "readable": true
+    }
+  ],
+  "text_files": 4,
+  "archive_entries": 11,
+  "archive_integrity": "passed",
+  "credential_scan": "passed"
+}

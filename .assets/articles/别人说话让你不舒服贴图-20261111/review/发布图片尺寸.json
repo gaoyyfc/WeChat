@@ -1,0 +1,86 @@
+[
+  {
+    "file": "01-封面.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "01-cover.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "02-被一句话否定.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "02-dismissal.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "03-被临时塞工作.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "03-extra-work.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "04-被拿来比较.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "04-comparison.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "05-被说开不起玩笑.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "05-joke.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "06-当时没回上也能补说.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "06-later.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  },
+  {
+    "file": "07-回复速查卡.png",
+    "size": [
+      1080,
+      1440
+    ],
+    "source": "07-card.png",
+    "source_size": [
+      1086,
+      1448
+    ]
+  }
+]

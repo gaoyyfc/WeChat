@@ -1,0 +1,21 @@
+{
+  "skill": "api-image",
+  "prompt_workflow": "baoyu-article-illustrator",
+  "model": "gpt-image-2",
+  "endpoint_type": "images/edits",
+  "quality": "high",
+  "source_size": [
+    1152,
+    1536
+  ],
+  "publication_size": [
+    1080,
+    1440
+  ],
+  "images": 7,
+  "postprocessing": "Only proportional resizing and format compression; no text overpainting or pixel-content repairs.",
+  "provider_source": "Current Codex root configuration; loopback route resolves selected CCSwitch upstream in memory. No credentials or upstream values saved.",
+  "style_decision": "User-approved white/black/yellow editorial typography replaces older default sketch-notes style.",
+  "references": "references/来源.md",
+  "prompts": "prompts/*.md"
+}
